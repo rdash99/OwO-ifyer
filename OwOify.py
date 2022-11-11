@@ -25,9 +25,13 @@ def owoIfy(FileName, here):
     for i in range(len(lines)):
         lines[i] = lines[i] + "\n"
     text = "".join(lines)
-    with open(output, "w", encoding='utf-8-sig') as f:
-        f.write(text)
-        f.close()
+    try:
+        with open(output, "w", encoding='utf-8-sig') as f:
+            f.write(text)
+            f.close()
+    except:
+        print("Error OwOing " + FileName)
+        pass
 
 for i in range(len(onlyfiles)):
     owoIfy(onlyfiles[i], here)
