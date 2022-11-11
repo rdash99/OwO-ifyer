@@ -1,1 +1,3 @@
 TextToOwO
+gutenbergpy
+bs4
