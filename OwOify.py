@@ -5,10 +5,16 @@ import os
 
 onlyfiles = [f for f in listdir("./Files") if isfile(join("./Files", f))]
 here = os.path.dirname(os.path.abspath(__file__))
+if not os.path.exists('OwO-out/'):
+        try:
+            os.makedirs('OwO-out/')
+        except OSError as e:
+            if e.errno != errno.EEXIST:
+                raise
 
 def owoIfy(FileName, here):
     filename = os.path.join(here, 'Files/' + FileName)
-    output = os.path.join(here, 'OwO/' + FileName)
+    output = os.path.join(here, 'OwO-out/' + FileName)
     print("OwOing " + FileName)
     #with open("Files/" + FileName + ".txt", "r", encoding='utf-8-sig') as f:
     with open(filename, "r", encoding='utf-8-sig') as f:
