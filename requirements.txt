@@ -1,3 +1,4 @@
 TextToOwO
 gutenbergpy
 bs4
+requests
