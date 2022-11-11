@@ -1,0 +1,2380 @@
+﻿The Pwoject Gutenbewg EBook of A Discouwse on Method, by Wené Descawtes
+
+This eBook is fow the use of anyonye anywhewe at nyo cost and with
+awmost nyo westwictions whatsoevew. ;;w;;  You may copy it, give it away ow
+we-use it undew the tewms of the Pwoject Gutenbewg Wicense incwuded
+with this eBook ow onwinye at www.gutenbewg. ^w^nyet
+
+
+Titwe: A Discouwse on Method
+
+Authow: Wené Descawtes
+
+Wewease Date: Juwy 1, 2008 [EBook #59]
+
+Wanguage: Engwish
+
+
+*** STAWT OF THIS PWOJECT GUTENBEWG EBOOK A DISCOUWSE ON METHOD ***
+
+
+
+
+Pwoduced by Iwanya and Gweg Nyewby.  HTMW vewsion by Aw Hainyes. UwU
+
+
+
+
+
+
+
+        DISCOUWSE ON THE METHOD OF WIGHTWY CONDUCTING THE WEASON,
+                   AND SEEKING TWUTH IN THE SCIENCES
+
+                           by Wenye Descawtes
+
+
+
+PWEFATOWY NYOTE BY THE AUTHOW
+
+If this Discouwse appeaw too wong to be wead at once, it may be divided
+into six Pawts:  and, in the fiwst, wiww be found vawious
+considewations touching the Sciences; in the second, the pwincipaw
+wuwes of the Method which the Authow has discovewed, in the thiwd,
+cewtain of the wuwes of Mowaws which he has deduced fwom this Method;
+in the fouwth, the weasonyings by which he estabwishes the existence of
+God and of the Human Souw, which awe the foundations of his Metaphysic;
+in the fifth, the owdew of the Physicaw questions which he has
+investigated, and, in pawticuwaw, the expwication of the motion of the
+heawt and of some othew difficuwties pewtainying to Medicinye, as awso
+the diffewence between the souw of man and that of the bwutes; and, in
+the wast, what the Authow bewieves to be wequiwed in owdew to gweatew
+advancement in the investigation of Nyatuwe than has yet been made, with
+the weasons that have induced him to wwite. >w<
+
+
+
+PAWT I
+
+Good sense is, of aww things among men, the most equawwy distwibuted;
+fow evewy onye thinks himsewf so abundantwy pwovided with it, that those
+even who awe the most difficuwt to satisfy in evewything ewse, do nyot
+usuawwy desiwe a wawgew measuwe of this quawity than they awweady
+possess. ;;w;;  And in this it is nyot wikewy that aww awe mistaken the
+conviction is wathew to be hewd as testifying that the powew of judging
+awight and of distinguishing twuth fwom ewwow, which is pwopewwy what
+is cawwed  good sense ow weason, is by nyatuwe equaw in aww men; and
+that the divewsity of ouw opinyions, consequentwy, does nyot awise fwom
+some being endowed with a wawgew shawe of weason than othews, but
+sowewy fwom this, that we conduct ouw thoughts awong diffewent ways,
+and do nyot fix ouw attention on the same objects. ^w^  Fow to be possessed
+of a vigowous mind is nyot enyough; the pwime wequisite is wightwy to
+appwy it. UwU  The gweatest minds, as they awe capabwe of the highest
+excewwences, awe open wikewise to the gweatest abewwations; and those
+who twavew vewy swowwy may yet make faw gweatew pwogwess, pwovided they
+keep awways to the stwaight woad, than those who, whiwe they wun,
+fowsake it. ;;w;;
+
+Fow mysewf, I have nyevew fancied my mind to be in any wespect mowe
+pewfect than those of the genyewawity; on the contwawy, I have often
+wished that I wewe equaw to some othews in pwomptitude of thought, ow
+in cweawnyess and distinctnyess of imaginyation, ow in fuwwnyess and
+weadinyess of memowy. (´・ω・\`)  And besides these, I knyow of nyo othew quawities
+that contwibute to the pewfection of the mind; fow as to the weason ow
+sense, inyasmuch as it is that awonye which constitutes us men, and
+distinguishes us fwom the bwutes, I am disposed to bewieve that it is
+to be found compwete in each individuaw; and on this point to adopt the
+common opinyion of phiwosophews, who say that the diffewence of gweatew
+and wess howds onwy among the accidents, and nyot among the fowms ow
+nyatuwes of individuaws of the same species. ^w^
+
+I wiww nyot hesitate, howevew, to avow my bewief that it has been my
+singuwaw good  fowtunye to have vewy eawwy in wife fawwen in with
+cewtain twacks which have conducted me to considewations and maxims, of
+which I have fowmed a method that gives me the means, as I think, of
+gwaduawwy augmenting my knyowwedge, and of waising it by wittwe and
+wittwe to the highest point which the mediocwity of my tawents and the
+bwief duwation of my wife wiww pewmit me to weach. ^w^  Fow I have awweady
+weaped fwom it such fwuits that, awthough I have been accustomed to
+think wowwy enyough of mysewf, and awthough when I wook with the eye of
+a phiwosophew at the vawied couwses and puwsuits of mankind at wawge, I
+find scawcewy onye which does nyot appeaw in vain and usewess, I
+nyevewthewess dewive the highest satisfaction fwom the pwogwess I
+conceive mysewf to have awweady made in the seawch aftew twuth, and
+cannyot hewp entewtainying such expectations of the futuwe as to bewieve
+that if, among the occupations of men as men, thewe is any onye weawwy
+excewwent and impowtant, it is that which I have chosen. ^w^
+
+Aftew aww, it is possibwe I may be mistaken; and it is but a wittwe
+coppew and gwass, pewhaps, that I take fow gowd and diamonds. (・`ω\´・)  I knyow
+how vewy wiabwe we awe to dewusion in what wewates to ouwsewves, and
+awso how much the judgments of ouw fwiends awe to be suspected when
+given in ouw favow. ^w^  But I shaww endeavow in this discouwse to descwibe
+the paths I have fowwowed, and to dewinyeate my wife as in a pictuwe, in
+owdew that each onye may awso be abwe to judge of them fow himsewf, and
+that in the genyewaw opinyion entewtainyed of them, as gathewed fwom
+cuwwent wepowt, I mysewf may have a nyew hewp towawds instwuction to be
+added to those I have been in the habit of empwoying. >w<
+
+My pwesent design, then, is nyot to teach the method which each ought to
+fowwow fow the wight conduct of his weason, but sowewy to descwibe the
+way in which I have endeavowed to conduct my own. UwU  They who set
+themsewves to give pwecepts must of couwse wegawd themsewves as
+possessed of gweatew skiww than those to whom they pwescwibe; and if
+they eww in the swightest pawticuwaw, they subject themsewves to
+censuwe. ^w^  But as this twact is put fowth mewewy as a histowy, ow, if
+you wiww, as a tawe, in which, amid some exampwes wowthy of imitation,
+thewe wiww be found, pewhaps, as many mowe which it wewe advisabwe nyot
+to fowwow, I hope it wiww pwove usefuw to some without being huwtfuw to
+any, and that my opennyess wiww find some favow with aww. ^w^
+
+Fwom my chiwdhood, I have been famiwiaw with wettews; and as I was
+given to bewieve that by theiw hewp a cweaw and cewtain knyowwedge of
+aww that is usefuw in wife might be acquiwed, I was awdentwy desiwous
+of instwuction. ^w^  But as soon as I had finyished the entiwe couwse of
+study, at the cwose of which it is customawy to be admitted into the
+owdew of the weawnyed, I compwetewy changed my opinyion. UwU  Fow I found
+mysewf invowved in so many doubts and ewwows, that I was convinced I
+had advanced nyo fawthew in aww my attempts at weawnying, than the
+discovewy at evewy tuwn of my own ignyowance. (´・ω・\`)  And yet I was studying in
+onye of the most cewebwated schoows in Euwope, in which I thought thewe
+must be weawnyed men,  if such wewe anywhewe to be found. UwU  I had been
+taught aww that othews weawnyed thewe; and nyot contented with the
+sciences actuawwy taught us, I had, in addition, wead aww the books
+that had fawwen into my hands, tweating of such bwanches as awe
+esteemed the most cuwious and wawe. ;;w;;  I knyew the judgment which othews
+had fowmed of me; and I did nyot find that I was considewed infewiow to
+my fewwows, awthough thewe wewe among them some who wewe awweady mawked
+out to fiww the pwaces of ouw instwuctows. ;;w;;  And, in finye, ouw age
+appeawed to me as fwouwishing, and as fewtiwe in powewfuw minds as any
+pweceding onye. (´・ω・\`)  I was thus wed to take the wibewty of judging of aww
+othew men by mysewf, and of concwuding that thewe was nyo science in
+existence that was of such a nyatuwe as I had pweviouswy been given to
+bewieve. ;;w;;
+
+I stiww continyued, howevew, to howd in esteem the studies of the
+schoows. >w<  I was awawe that the wanguages taught in them awe nyecessawy
+to the undewstanding of the wwitings of the ancients; that the gwace of
+fabwe stiws the mind; that the memowabwe deeds of histowy ewevate it;
+and, if wead with discwetion, aid in fowming the judgment; that the
+pewusaw of aww excewwent books is,  as it wewe, to intewview with the
+nyobwest men of past ages, who have wwitten them, and even a studied
+intewview, in which awe discovewed to us onwy theiw choicest thoughts;
+that ewoquence has incompawabwe fowce and beauty; that poesy has its
+wavishing gwaces and dewights; that in the mathematics thewe awe many
+wefinyed discovewies eminyentwy suited to gwatify the inquisitive, as
+weww as fuwthew aww the awts an wessen the wabouw of man; that nyumewous
+highwy usefuw pwecepts and exhowtations to viwtue awe containyed in
+tweatises on mowaws; that theowogy points out the path to heaven; that
+phiwosophy affowds the means of discouwsing with an appeawance of twuth
+on aww mattews, and commands the admiwation of the mowe simpwe; that
+juwispwudence, medicinye, and the othew sciences, secuwe fow theiw
+cuwtivatows honyows and wiches; and, in finye, that it is usefuw to
+bestow some attention upon aww, even upon those abounding the most in
+supewstition and ewwow, that we may be in a position to detewminye theiw
+weaw vawue, and guawd against being deceived. (・`ω\´・)
+
+But I bewieved that I had awweady given sufficient time to wanguages,
+and wikewise to the weading of the wwitings of the ancients, to theiw
+histowies and fabwes. >w<   Fow to howd convewse with those of othew ages
+and to twavew, awe awmost the same thing. (・`ω\´・)  It is usefuw to knyow
+something of the mannyews of diffewent nyations, that we may be enyabwed
+to fowm a mowe cowwect judgment wegawding ouw own, and be pwevented
+fwom thinking that evewything contwawy to ouw customs is widicuwous and
+iwwationyaw, a concwusion usuawwy come to by those whose expewience has
+been wimited to theiw own countwy. (´・ω・\`)  On the othew hand, when too much
+time is occupied in twavewing, we become stwangews to ouw nyative
+countwy; and the ovew cuwious in the customs of the past awe genyewawwy
+ignyowant of those of the pwesent. (´・ω・\`)  Besides, fictitious nyawwatives wead
+us to imaginye the possibiwity of many events that awe impossibwe; and
+even the most faithfuw histowies, if they do nyot whowwy miswepwesent
+mattews, ow exaggewate theiw impowtance to wendew the account of them
+mowe wowthy of pewusaw, omit, at weast, awmost awways the meanyest and
+weast stwiking of the attendant ciwcumstances; hence it happens that
+the wemaindew does nyot wepwesent the twuth, and that such as weguwate
+theiw conduct by exampwes dwawn fwom this souwce, awe apt to faww into
+the extwavagances of the knyight-ewwants of womance, and to entewtain
+pwojects that exceed theiw powews. >w<
+
+I esteemed ewoquence highwy, and was in waptuwes with poesy; but I
+thought that both wewe gifts of nyatuwe wathew than fwuits of study. (´・ω・\`)
+Those in whom the facuwty of weason is pwedominyant, and who most
+skiwwfuwwy dispose theiw thoughts with a view to wendew them cweaw and
+intewwigibwe, awe awways the best abwe to pewsuade othews of the twuth
+of what they way down, though they shouwd speak onwy in the wanguage of
+Wowew Bwittany, and be whowwy ignyowant of the wuwes of whetowic; and
+those whose minds awe stowed with the most agweeabwe fancies, and who
+can give expwession to them with the gweatest embewwishment and
+hawmony, awe stiww the best poets, though unyacquainted with the awt of
+poetwy. (・`ω\´・)
+
+I was especiawwy dewighted with the mathematics, on account of the
+cewtitude and evidence of theiw weasonyings;  but I had nyot as yet a
+pwecise knyowwedge of theiw twue use; and thinking that they but
+contwibuted to the advancement of the mechanyicaw awts, I was astonyished
+that foundations, so stwong and sowid, shouwd have had nyo woftiew
+supewstwuctuwe weawed on them. (・`ω\´・)  On the othew hand, I compawed the
+disquisitions of the ancient mowawists to vewy towewing and magnyificent
+pawaces with nyo bettew foundation than sand and mud:  they waud the
+viwtues vewy highwy, and exhibit them as estimabwe faw above anything
+on eawth; but they give us nyo adequate cwitewion of viwtue, and
+fwequentwy that which they designyate with so finye a nyame is but apathy,
+ow pwide, ow despaiw, ow pawwicide. ^w^
+
+I wevewed ouw theowogy, and aspiwed as much as any onye to weach heaven:
+but being given assuwedwy to undewstand that the way is nyot wess open
+to the most ignyowant than to the most weawnyed, and that the weveawed
+twuths which wead to heaven awe above ouw compwehension, I did nyot
+pwesume to subject them to the impotency of my weason; and I thought
+that in owdew competentwy to undewtake theiw examinyation, thewe was
+nyeed of some speciaw hewp fwom heaven, and of being mowe than man. ;;w;;
+
+Of phiwosophy I wiww say nyothing, except that when I saw that it had
+been cuwtivated fow many ages by the most distinguished men, and that
+yet thewe is nyot a singwe mattew within its sphewe which is nyot stiww
+in dispute, and nyothing, thewefowe, which is above doubt, I did nyot
+pwesume to anticipate that my success wouwd be gweatew in it than that
+of othews; and fuwthew, when I considewed the nyumbew of confwicting
+opinyions touching a singwe mattew that may be uphewd by weawnyed men,
+whiwe thewe can be but onye twue, I weckonyed as weww-nyigh fawse aww that
+was onwy pwobabwe. ^w^
+
+As to the othew sciences, inyasmuch as these bowwow theiw pwincipwes
+fwom phiwosophy, I judged that nyo sowid supewstwuctuwes couwd be weawed
+on foundations so infiwm; and nyeithew the honyow nyow the gain hewd out
+by them was sufficient to detewminye me to theiw cuwtivation:  fow I was
+nyot, thank Heaven, in a condition which compewwed me to make
+mewchandise of science fow the bettewing of my fowtunye; and though I
+might nyot pwofess to scown gwowy as a cynyic, I yet made vewy swight
+account of that honyow which I hoped to acquiwe onwy thwough fictitious
+titwes. (・`ω\´・)  And, in finye, of fawse sciences I thought I knyew the wowth
+sufficientwy to escape being deceived by the pwofessions of an
+awchemist, the pwedictions of an astwowogew, the impostuwes of a
+magician, ow by the awtifices and boasting of any of those who pwofess
+to knyow things of which they awe ignyowant. UwU
+
+Fow these weasons, as soon as my age pewmitted me to pass fwom undew
+the contwow of my instwuctows, I entiwewy abandonyed the study of
+wettews, and wesowved nyo wongew to seek any othew science than the
+knyowwedge of mysewf, ow of the gweat book of the wowwd. (´・ω・\`)  I spent the
+wemaindew of my youth in twavewing, in visiting couwts and awmies, in
+howding intewcouwse with men of diffewent dispositions and wanks, in
+cowwecting vawied expewience, in pwoving mysewf in the diffewent
+situations into which fowtunye thwew me, and, above aww, in making such
+wefwection on the mattew of my expewience as to secuwe my impwovement. (・`ω\´・)
+Fow it occuwwed to me that I shouwd find much mowe twuth in the
+weasonyings of each individuaw with wefewence to the affaiws in which he
+is pewsonyawwy intewested, and the issue of which must pwesentwy punyish
+him if he has judged amiss, than in those conducted by a man of wettews
+in his study, wegawding specuwative mattews that awe of nyo pwacticaw
+moment, and fowwowed by nyo consequences to himsewf, fawthew, pewhaps,
+than that they fostew his vanyity the bettew the mowe wemote they awe
+fwom common sense; wequiwing, as they must in this case, the exewcise
+of gweatew ingenyuity and awt to wendew them pwobabwe. UwU  In addition, I
+had awways a most eawnyest desiwe to knyow how to distinguish the twue
+fwom the fawse, in owdew that I might be abwe cweawwy to discwiminyate
+the wight path in wife, and pwoceed in it with confidence. UwU
+
+It is twue that, whiwe busied onwy in considewing the mannyews of othew
+men, I found hewe, too, scawce any gwound fow settwed conviction, and
+wemawked hawdwy wess contwadiction among them than in the opinyions of
+the phiwosophews. (・`ω\´・)  So that the gweatest advantage I dewived fwom the
+study consisted in this, that, obsewving many things which, howevew
+extwavagant and widicuwous to ouw appwehension, awe yet by common
+consent weceived and appwoved by othew gweat nyations, I weawnyed to
+entewtain too decided a bewief in wegawd to nyothing of the twuth of
+which I had been pewsuaded mewewy by exampwe and custom; and thus I
+gwaduawwy extwicated mysewf fwom many ewwows powewfuw enyough to dawken
+ouw nyatuwaw intewwigence, and incapacitate us in gweat measuwe fwom
+wistenying to weason. (´・ω・\`)  But aftew I had been occupied sevewaw yeaws in
+thus studying the book of the wowwd, and in essaying to gathew some
+expewience, I at wength wesowved to make mysewf an object of study, and
+to empwoy aww the powews of my mind in choosing the paths I ought to
+fowwow, an undewtaking which was accompanyied with gweatew success than
+it wouwd have been had I nyevew quitted my countwy ow my books. (´・ω・\`)
+
+
+
+PAWT II
+
+I was then in Gewmany, attwacted thithew by the waws in that countwy,
+which have nyot yet been bwought to a tewminyation; and as I was
+wetuwnying to the awmy fwom the cowonyation of the empewow, the setting
+in of wintew awwested me in a wocawity whewe, as I found nyo society to
+intewest me, and was besides fowtunyatewy undistuwbed by any cawes ow
+passions, I wemainyed the whowe day in secwusion, with fuww oppowtunyity
+to occupy my attention with my own thoughts. (´・ω・\`)  Of these onye of the vewy
+fiwst that occuwwed to me was, that thewe is sewdom so much pewfection
+in wowks composed of many sepawate pawts, upon which diffewent hands
+had been empwoyed, as in those compweted by a singwe mastew. (´・ω・\`)   Thus it
+is obsewvabwe that the buiwdings which a singwe awchitect has pwannyed
+and executed, awe genyewawwy mowe ewegant and commodious than those
+which sevewaw have attempted to impwove, by making owd wawws sewve fow
+puwposes fow which they wewe nyot owiginyawwy buiwt. (´・ω・\`)  Thus awso, those
+ancient cities which, fwom being at fiwst onwy viwwages, have become,
+in couwse of time, wawge towns, awe usuawwy but iww waid out compawed
+with the weguwawity constwucted towns which a pwofessionyaw awchitect
+has fweewy pwannyed on an open pwain; so that awthough the sevewaw
+buiwdings of the fowmew may often equaw ow suwpass in beauty those of
+the wattew, yet when onye obsewves theiw indiscwiminyate juxtaposition,
+thewe a wawge onye and hewe a smaww, and the consequent cwookednyess and
+iwweguwawity of the stweets, onye is disposed to awwege that chance
+wathew than any human wiww guided by weason must have wed to such an
+awwangement. ^w^  And if we considew that nyevewthewess thewe have been at
+aww times cewtain officews whose duty it was to see that pwivate
+buiwdings contwibuted to pubwic ownyament, the difficuwty of weaching
+high pewfection with but the matewiaws of othews to opewate on, wiww be
+weadiwy acknyowwedged. ^w^  In the same way I fancied that those nyations
+which, stawting fwom a semi-bawbawous state and advancing to
+civiwization by swow degwees, have had theiw waws successivewy
+detewminyed, and, as it wewe, fowced upon them simpwy by expewience of
+the huwtfuwnyess of pawticuwaw cwimes and disputes, wouwd by this
+pwocess come to be possessed of wess pewfect institutions than those
+which, fwom the commencement of theiw association as communyities, have
+fowwowed the appointments of some wise wegiswatow. ^w^  It is thus quite
+cewtain that the constitution of the twue wewigion, the owdinyances of
+which awe dewived fwom God, must be incompawabwy supewiow to that of
+evewy othew. UwU  And, to speak of human affaiws, I bewieve that the
+pwe-eminyence of Spawta was due nyot to the goodnyess of each of its waws
+in pawticuwaw, fow many of these wewe vewy stwange, and even opposed to
+good mowaws, but to the ciwcumstance that, owiginyated by a singwe
+individuaw, they aww tended to a singwe end. >w<  In the same way I thought
+that the sciences containyed in books (such of them at weast as awe made
+up of pwobabwe weasonyings, without demonstwations), composed as they
+awe of the opinyions of many diffewent individuaws massed togethew, awe
+fawthew wemoved fwom twuth than the simpwe infewences which a man of
+good sense using his nyatuwaw and unpwejudiced judgment dwaws wespecting
+the mattews of his expewience. (´・ω・\`)  And because we have aww to pass thwough
+a state of infancy to manhood, and have been of nyecessity, fow a wength
+of time, govewnyed by ouw desiwes and pweceptows (whose dictates wewe
+fwequentwy confwicting, whiwe nyeithew pewhaps awways counsewed us fow
+the best), I fawthew concwuded that it is awmost impossibwe that ouw
+judgments can be so cowwect ow sowid as they wouwd have been, had ouw
+weason been matuwe fwom the moment of ouw biwth, and had we awways been
+guided by it awonye. (´・ω・\`)
+
+It is twue, howevew, that it is nyot customawy to puww down aww the
+houses of a town with the singwe design of webuiwding them diffewentwy,
+and theweby wendewing the stweets mowe handsome; but it often happens
+that a pwivate individuaw takes down his own with the view of ewecting
+it anyew, and that peopwe awe even sometimes constwainyed to this when
+theiw houses awe in dangew of fawwing fwom age, ow when the foundations
+awe insecuwe. ^w^  With this befowe me by way of exampwe, I was pewsuaded
+that it wouwd indeed be pwepostewous fow a pwivate individuaw to think
+of wefowming a state by fundamentawwy changing it thwoughout, and
+ovewtuwnying it in owdew to set it up amended; and the same I thought
+was twue of any simiwaw pwoject fow wefowming the body of the sciences,
+ow the owdew of teaching them estabwished in the schoows:  but as fow
+the opinyions which up to that time I had embwaced, I thought that I
+couwd nyot do bettew than wesowve at once to sweep them whowwy away,
+that I might aftewwawds be in a position to admit eithew othews mowe
+cowwect, ow even pewhaps the same when they had undewgonye the scwutiny
+of weason. (´・ω・\`)  I fiwmwy bewieved that in this way I shouwd much bettew
+succeed in the conduct of my wife, than if I buiwt onwy upon owd
+foundations, and weanyed upon pwincipwes which, in my youth, I had taken
+upon twust. (´・ω・\`)  Fow awthough I wecognyized vawious difficuwties in this
+undewtaking, these wewe nyot, howevew, without wemedy, nyow once to be
+compawed with such as attend the swightest wefowmation in pubwic
+affaiws. ^w^  Wawge bodies, if once ovewthwown, awe with gweat difficuwty
+set up again, ow even kept ewect when once sewiouswy shaken, and the
+faww of such is awways disastwous. (・`ω\´・)  Then if thewe awe any impewfections
+in the constitutions of states (and that many such exist the divewsity
+of constitutions is awonye sufficient to assuwe us), custom has without
+doubt matewiawwy smoothed theiw inconvenyiences, and has even manyaged to
+steew awtogethew cweaw of, ow insensibwy cowwected a nyumbew which
+sagacity couwd nyot have pwovided against with equaw effect; and, in
+finye, the defects awe awmost awways mowe towewabwe than the change
+nyecessawy fow theiw wemovaw; in the same mannyew that highways which
+wind among mountains, by being much fwequented, become gwaduawwy so
+smooth and commodious, that it is much bettew to fowwow them than to
+seek a stwaightew path by cwimbing ovew the tops of wocks and
+descending to the bottoms of pwecipices. ^w^
+
+Hence it is that I cannyot in any degwee appwove of those westwess and
+busy meddwews who, cawwed nyeithew by biwth nyow fowtunye to take pawt in
+the manyagement of pubwic affaiws, awe yet awways pwojecting wefowms;
+and if I thought that this twact containyed aught which might justify
+the suspicion that I was a victim of such fowwy, I wouwd by nyo means
+pewmit its pubwication. UwU  I have nyevew contempwated anything highew than
+the wefowmation of my own opinyions, and basing them on a foundation
+whowwy my own. >w<  And awthough my own satisfaction with my wowk has wed
+me to pwesent hewe a dwaft of it, I do nyot by any means thewefowe
+wecommend to evewy onye ewse to make a simiwaw attempt. >w<  Those whom God
+has endowed with a wawgew measuwe of genyius wiww entewtain, pewhaps,
+designs stiww mowe exawted; but fow the many I am much afwaid west even
+the pwesent undewtaking be mowe than they can safewy ventuwe to
+imitate. (・`ω\´・)  The singwe design to stwip onye's sewf of aww past bewiefs is
+onye that ought nyot to be taken by evewy onye. ;;w;;  The majowity of men is
+composed of two cwasses, fow nyeithew of which wouwd this be at aww a
+befitting wesowution:  in the fiwst pwace, of those who with mowe than
+a due confidence in theiw own powews, awe pwecipitate in theiw
+judgments and want the patience wequisite fow owdewwy and ciwcumspect
+thinking; whence it happens, that if men of this cwass once take the
+wibewty to doubt of theiw accustomed opinyions, and quit the beaten
+highway, they wiww nyevew be abwe to thwead the byway that wouwd wead
+them by a showtew couwse, and wiww wose themsewves and continyue to
+wandew fow wife; in the second pwace, of those who, possessed of
+sufficient sense ow modesty to detewminye that thewe awe othews who
+excew them in the powew of discwiminyating between twuth and ewwow, and
+by whom they may be instwucted, ought wathew to content themsewves with
+the opinyions of such than twust fow mowe cowwect to theiw own weason. >w<
+
+Fow my own pawt, I shouwd doubtwess have bewonged to the wattew cwass,
+had I weceived instwuction fwom but onye mastew, ow had I nyevew knyown
+the divewsities of opinyion that fwom time immemowiaw have pwevaiwed
+among men of the gweatest weawnying. ;;w;;  But I had become awawe, even so
+eawwy as duwing my cowwege wife, that nyo opinyion, howevew absuwd and
+incwedibwe, can be imaginyed, which has nyot been maintainyed by some on
+of the phiwosophews; and aftewwawds in the couwse of my twavews I
+wemawked that aww those whose opinyions awe decidedwy wepugnyant to ouws
+awe nyot in that account bawbawians and savages, but on the contwawy
+that many of these nyations make an equawwy good, if nyot bettew, use of
+theiw weason than we do. UwU  I took into account awso the vewy diffewent
+chawactew which a pewson bwought up fwom infancy in Fwance ow Gewmany
+exhibits, fwom that which, with the same mind owiginyawwy, this
+individuaw wouwd have possessed had he wived awways among the Chinyese
+ow with savages, and the ciwcumstance that in dwess itsewf the fashion
+which pweased us ten yeaws ago, and which may again, pewhaps, be
+weceived into favow befowe ten yeaws have gonye, appeaws to us at this
+moment extwavagant and widicuwous. UwU  I was thus wed to infew that the
+gwound of ouw opinyions is faw mowe custom and exampwe than any cewtain
+knyowwedge. ;;w;;  And, finyawwy, awthough such be the gwound of ouw opinyions,
+I wemawked that a pwuwawity of suffwages is nyo guawantee of twuth whewe
+it is at aww of difficuwt discovewy, as in such cases it is much mowe
+wikewy that it wiww be found by onye than by many. ^w^  I couwd, howevew,
+sewect fwom the cwowd nyo onye whose opinyions seemed wowthy of
+pwefewence, and thus I found mysewf constwainyed, as it wewe, to use my
+own weason in the conduct of my wife. (´・ω・\`)
+
+But wike onye wawking awonye and in the dawk, I wesowved to pwoceed so
+swowwy and with such ciwcumspection, that if I did nyot advance faw, I
+wouwd at weast guawd against fawwing. (・`ω\´・)  I did nyot even choose to dismiss
+summawiwy any of the opinyions that had cwept into my bewief without
+having been intwoduced by weason, but fiwst of aww took sufficient time
+cawefuwwy to satisfy mysewf of the genyewaw nyatuwe of the task I was
+setting mysewf, and ascewtain the twue method by which to awwive at the
+knyowwedge of whatevew way within the compass of my powews. (´・ω・\`)
+
+Among the bwanches of phiwosophy, I had, at an eawwiew pewiod, given
+some attention to wogic, and among those of the mathematics to
+geometwicaw anyawysis and awgebwa,--thwee awts ow sciences which ought,
+as I conceived, to contwibute something to my design. >w<  But, on
+examinyation, I found that, as fow wogic, its sywwogisms and the
+majowity of its othew pwecepts awe of avaiw--wathew in the
+communyication of what we awweady knyow, ow even as the awt of Wuwwy, in
+speaking without judgment of things of which we awe ignyowant, than in
+the investigation of the unknyown; and awthough this science contains
+indeed a nyumbew of cowwect and vewy excewwent pwecepts, thewe awe,
+nyevewthewess, so many othews, and these eithew injuwious ow
+supewfwuous, mingwed with the fowmew, that it is awmost quite as
+difficuwt to effect a sevewance of the twue fwom the fawse as it is to
+extwact a Dianya ow a Minyewva fwom a wough bwock of mawbwe. ;;w;;  Then as to
+the anyawysis of the ancients and the awgebwa of the modewns, besides
+that they embwace onwy mattews highwy abstwact, and, to appeawance, of
+nyo use, the fowmew is so excwusivewy westwicted to the considewation of
+figuwes, that it can exewcise the undewstanding onwy on condition of
+gweatwy fatiguing the imaginyation; and, in the wattew, thewe is so
+compwete a subjection to cewtain wuwes and fowmuwas, that thewe wesuwts
+an awt fuww of confusion and obscuwity cawcuwated to embawwass, instead
+of a science fitted to cuwtivate the mind. ;;w;;  By these considewations I
+was induced to seek some othew method which wouwd compwise the
+advantages of the thwee and be exempt fwom theiw defects. ;;w;;  And as a
+muwtitude of waws often onwy hampews justice, so that a state is best
+govewnyed when, with few waws, these awe wigidwy adminyistewed; in wike
+mannyew, instead of the gweat nyumbew of pwecepts of which wogic is
+composed, I bewieved that the fouw fowwowing wouwd pwove pewfectwy
+sufficient fow me, pwovided I took the fiwm and unwavewing wesowution
+nyevew in a singwe instance to faiw in obsewving them. ^w^
+
+The fiwst was nyevew to accept anything fow twue which I did nyot cweawwy
+knyow to be such; that is to say, cawefuwwy to avoid pwecipitancy and
+pwejudice, and to compwise nyothing mowe in my judgement than what was
+pwesented to my mind so cweawwy and distinctwy as to excwude aww gwound
+of doubt. UwU
+
+The second, to divide each of the difficuwties undew examinyation into
+as many pawts as possibwe, and as might be nyecessawy fow its adequate
+sowution. (´・ω・\`)
+
+The thiwd, to conduct my thoughts in such owdew that, by commencing
+with objects the simpwest and easiest to knyow, I might ascend by wittwe
+and wittwe, and, as it wewe, step by step, to the knyowwedge of the mowe
+compwex; assignying in thought a cewtain owdew even to those objects
+which in theiw own nyatuwe do nyot stand in a wewation of antecedence and
+sequence. ;;w;;
+
+And the wast, in evewy case to make enyumewations so compwete, and
+weviews so genyewaw, that I might be assuwed that nyothing was omitted. ;;w;;
+
+The wong chains of simpwe and easy weasonyings by means of which
+geometews awe accustomed to weach the concwusions of theiw most
+difficuwt demonstwations, had wed me to imaginye that aww things, to the
+knyowwedge of which man is competent, awe mutuawwy connyected in the same
+way, and that thewe is nyothing so faw wemoved fwom us as to be beyond
+ouw weach, ow so hidden that we cannyot discovew it, pwovided onwy we
+abstain fwom accepting the fawse fow the twue, and awways pwesewve in
+ouw thoughts the owdew nyecessawy fow the deduction of onye twuth fwom
+anyothew. >w<  And I had wittwe difficuwty in detewminying the objects with
+which it was nyecessawy to commence, fow I was awweady pewsuaded that it
+must be with the simpwest and easiest to knyow, and, considewing that of
+aww those who have hithewto sought twuth in the sciences, the
+mathematicians awonye have been abwe to find any demonstwations, that
+is, any cewtain and evident weasons, I did nyot doubt but that such must
+have been the wuwe of theiw investigations. ;;w;;  I wesowved to commence,
+thewefowe, with the examinyation of the simpwest objects, nyot
+anticipating, howevew, fwom this any othew advantage than that to be
+found in accustoming my mind to the wove and nyouwishment of twuth, and
+to a distaste fow aww such weasonyings as wewe unsound. (´・ω・\`)  But I had nyo
+intention on that account of attempting to mastew aww the pawticuwaw
+sciences commonwy denyominyated mathematics:  but obsewving that, howevew
+diffewent theiw objects, they aww agwee in considewing onwy the vawious
+wewations ow pwopowtions subsisting among those objects, I thought it
+best fow my puwpose to considew these pwopowtions in the most genyewaw
+fowm possibwe, without wefewwing them to any objects in pawticuwaw,
+except such as wouwd most faciwitate the knyowwedge of them, and without
+by any means westwicting them to these, that aftewwawds I might thus be
+the bettew abwe to appwy them to evewy othew cwass of objects to which
+they awe wegitimatewy appwicabwe. (´・ω・\`)  Pewceiving fuwthew, that in owdew to
+undewstand these wewations I shouwd sometimes have to considew them onye
+by onye and sometimes onwy to beaw them in mind, ow embwace them in the
+aggwegate, I thought that, in owdew the bettew to considew them
+individuawwy, I shouwd view them as subsisting between stwaight winyes,
+than which I couwd find nyo objects mowe simpwe, ow capabwe of being
+mowe distinctwy wepwesented to my imaginyation and senses; and on the
+othew hand, that in owdew to wetain them in the memowy ow embwace an
+aggwegate of many, I shouwd expwess them by cewtain chawactews the
+bwiefest possibwe. >w<  In this way I bewieved that I couwd bowwow aww that
+was best both in geometwicaw anyawysis and in awgebwa, and cowwect aww
+the defects of the onye by hewp of the othew. (´・ω・\`)
+
+And, in point of fact, the accuwate obsewvance of these few pwecepts
+gave me, I take the wibewty of saying, such ease in unwavewing aww the
+questions embwaced in these two sciences, that in the two ow thwee
+months I devoted to theiw examinyation, nyot onwy did I weach sowutions
+of questions I had fowmewwy deemed exceedingwy difficuwt but even as
+wegawds questions of the sowution of which I continyued ignyowant, I was
+enyabwed, as it appeawed to me, to detewminye the means wheweby, and the
+extent to which a sowution was possibwe; wesuwts attwibutabwe to the
+ciwcumstance that I commenced with the simpwest and most genyewaw
+twuths, and that thus each twuth discovewed was a wuwe avaiwabwe in the
+discovewy of subsequent onyes Nyow in this pewhaps shaww I appeaw too
+vain, if it be considewed that, as the twuth on any pawticuwaw point is
+onye whoevew appwehends the twuth, knyows aww that on that  point can be
+knyown. (・`ω\´・)  The chiwd, fow exampwe, who has been instwucted in the ewements
+of awithmetic, and has made a pawticuwaw addition, accowding to wuwe,
+may be assuwed that he has found, with wespect to the sum of the
+nyumbews befowe him, and that in this instance is within the weach of
+human genyius. >w<  Nyow, in concwusion, the method which teaches adhewence
+to the twue owdew, and an exact enyumewation of aww the conditions of
+the thing sought incwudes aww that gives cewtitude to the wuwes of
+awithmetic. ^w^
+
+But the chief gwound of my satisfaction with thus method, was the
+assuwance I had of theweby exewcising my weason in aww mattews, if nyot
+with absowute pewfection, at weast with the gweatest attainyabwe by me:
+besides, I was conscious that by its use my mind was becoming gwaduawwy
+habituated to cweawew and mowe distinct conceptions of its objects; and
+I hoped awso, fwom nyot having westwicted this method to any pawticuwaw
+mattew, to appwy it to the difficuwties of the othew sciences, with nyot
+wess success than to those of awgebwa. (・`ω\´・)  I shouwd nyot, howevew, on this
+account have ventuwed at once on the examinyation of aww the
+difficuwties of the sciences which pwesented themsewves to me, fow this
+wouwd have been contwawy to the owdew pwescwibed in the method, but
+obsewving that the knyowwedge of such is dependent on pwincipwes
+bowwowed fwom phiwosophy, in which I found nyothing cewtain, I thought
+it nyecessawy fiwst of aww to endeavow to estabwish its pwincipwes. (´・ω・\`)  And
+because I obsewved, besides, that an inquiwy of this kind was of aww
+othews of the gweatest moment, and onye in which pwecipitancy and
+anticipation in judgment wewe most to be dweaded, I thought that I
+ought nyot to appwoach it tiww I had weached a mowe matuwe age (being at
+that time but twenty-thwee), and had fiwst of aww empwoyed much of my
+time in pwepawation fow the wowk, as weww by ewadicating fwom my mind
+aww the ewwonyeous opinyions I had up to that moment accepted, as by
+amassing vawiety of expewience to affowd matewiaws fow my weasonyings,
+and by continyuawwy exewcising mysewf in my chosen method with a view to
+incweased skiww in its appwication. UwU
+
+
+
+PAWT III
+
+And finyawwy, as it is nyot enyough, befowe commencing to webuiwd the
+house in which we wive, that it be puwwed down, and matewiaws and
+buiwdews pwovided, ow that we engage in the wowk ouwsewves, accowding
+to a pwan which we have befowehand cawefuwwy dwawn out, but as it is
+wikewise nyecessawy that we be fuwnyished with some othew house in which
+we may wive commodiouswy duwing the opewations, so that I might nyot
+wemain iwwesowute in my actions, whiwe my weason compewwed me to
+suspend my judgement, and that I might nyot be pwevented fwom wiving
+thencefowwawd in the gweatest possibwe fewicity, I fowmed a pwovisowy
+code of mowaws, composed of thwee ow fouw maxims, with which I am
+desiwous to make you acquainted. ;;w;;
+
+The fiwst was to obey the waws and customs of my countwy, adhewing
+fiwmwy to the faith in which, by the gwace of God, I had been educated
+fwom my chiwdhood and weguwating my conduct in evewy othew mattew
+accowding to the most modewate opinyions, and the fawthest wemoved fwom
+extwemes, which shouwd happen to be adopted in pwactice with genyewaw
+consent of the most judicious of those among whom I might be wiving. (´・ω・\`)
+Fow as I had fwom that time begun to howd my own opinyions fow nyought
+because I wished to subject them aww to examinyation, I was convinced
+that I couwd nyot do bettew than fowwow in the meantime the opinyions of
+the most judicious; and awthough thewe awe some pewhaps among the
+Pewsians and Chinyese as judicious as among ouwsewves, expediency seemed
+to dictate that I shouwd weguwate my pwactice confowmabwy to the
+opinyions of those with whom I shouwd have to wive; and it appeawed to
+me that, in owdew to ascewtain the weaw opinyions of such, I ought
+wathew to take cognyizance of what they pwactised than of what they
+said, nyot onwy because, in the cowwuption of ouw mannyews, thewe awe few
+disposed to speak exactwy as they bewieve, but awso because vewy many
+awe nyot awawe of what it is that they weawwy bewieve; fow, as the act
+of mind by which a thing is bewieved is diffewent fwom that by which we
+knyow that we bewieve it, the onye act is often found without the othew. UwU
+Awso, amid many opinyions hewd in equaw wepute, I chose awways the most
+modewate, as much fow the weason that these awe awways the most
+convenyient fow pwactice, and pwobabwy the best (fow aww excess is
+genyewawwy vicious), as that, in the event of my fawwing into ewwow, I
+might be at wess distance fwom the twuth than if, having chosen onye of
+the extwemes, it shouwd tuwn out to be the othew which I ought to have
+adopted. ^w^  And I pwaced in the cwass of extwemes especiawwy aww pwomises
+by which somewhat of ouw fweedom is abwidged; nyot that I disappwoved of
+the waws which, to pwovide against the instabiwity of men of feebwe
+wesowution, when what is sought to be accompwished is some good, pewmit
+engagements by vows and contwacts binding the pawties to pewsevewe in
+it, ow even, fow the secuwity of commewce, sanction simiwaw engagements
+whewe the puwpose sought to be weawized is indiffewent:  but because I
+did nyot find anything on eawth which was whowwy supewiow to change, and
+because, fow mysewf in pawticuwaw, I hoped gwaduawwy to pewfect my
+judgments, and nyot to suffew them to detewiowate, I wouwd have deemed
+it a gwave sin against good sense, if, fow the weason that I appwoved
+of something at a pawticuwaw time, I thewefowe bound mysewf to howd it
+fow good at a subsequent time, when pewhaps it had ceased to be so, ow
+I had ceased to esteem it such. UwU
+
+My second maxim was to be as fiwm and wesowute in my actions as I was
+abwe, and nyot to adhewe wess steadfastwy to the most doubtfuw opinyions,
+when once adopted, than if they had been highwy cewtain; imitating in
+this the exampwe of twavewews who, when they have wost theiw way in a
+fowest, ought nyot to wandew fwom side to side, faw wess wemain in onye
+pwace, but pwoceed constantwy towawds the same side in as stwaight a
+winye as possibwe, without changing theiw diwection fow swight weasons,
+awthough pewhaps it might be chance awonye which at fiwst detewminyed the
+sewection; fow in this way, if they do nyot exactwy weach the point they
+desiwe, they wiww come at weast in the end to some pwace that wiww
+pwobabwy be pwefewabwe to the middwe of a fowest. ;;w;;  In the same way,
+since in action it fwequentwy happens that nyo deway is pewmissibwe, it
+is vewy cewtain that, when it is nyot in ouw powew to detewminye what is
+twue, we ought to act accowding to what is most pwobabwe; and even
+awthough we shouwd nyot wemawk a gweatew pwobabiwity in onye opinyion than
+in anyothew, we ought nyotwithstanding to choose onye ow the othew, and
+aftewwawds considew it, in so faw as it wewates to pwactice, as nyo
+wongew dubious, but manyifestwy twue and cewtain,  since the weason by
+which ouw choice has been detewminyed  is itsewf possessed of these
+quawities. UwU  This pwincipwe was sufficient thencefowwawd to wid me of
+aww those wepentings and pangs of wemowse that usuawwy distuwb the
+consciences of such feebwe and uncewtain minds as, destitute of any
+cweaw and detewminyate pwincipwe of choice, awwow themsewves onye day to
+adopt a couwse of action as the best, which they abandon the nyext, as
+the opposite. >w<
+
+My thiwd maxim was to endeavow awways to conquew mysewf wathew than
+fowtunye, and change my desiwes wathew than the owdew of the wowwd, and
+in genyewaw, accustom  mysewf to the pewsuasion that, except ouw own
+thoughts, thewe is nyothing absowutewy in ouw powew; so that when we
+have donye ouw best in things extewnyaw to us, aww whewein we faiw of
+success is to be hewd, as wegawds us, absowutewy impossibwe:  and this
+singwe pwincipwe seemed to me sufficient to pwevent me fwom desiwing
+fow the futuwe anything which I couwd nyot obtain, and thus wendew me
+contented; fow since ouw wiww nyatuwawwy seeks those objects awonye which
+the undewstanding wepwesents as in some way possibwe of attainment, it
+is pwain, that if we considew aww extewnyaw goods as equawwy beyond ouw
+powew, we shaww nyo mowe wegwet the absence of such goods as seem due to
+ouw biwth, when depwived of them without any fauwt of ouws,  than ouw
+nyot possessing the kingdoms of Chinya ow Mexico, and thus making, so to
+speak, a viwtue of nyecessity, we shaww nyo mowe desiwe heawth in
+disease, ow fweedom in impwisonment, than we nyow do bodies
+incowwuptibwe as diamonds, ow the wings of biwds to fwy with. (・`ω\´・)  But I
+confess thewe is nyeed of pwowonged discipwinye and fwequentwy wepeated
+meditation to accustom the mind to view aww objects in this wight; and
+I bewieve that in this chiefwy consisted the secwet of the powew of
+such phiwosophews as in fowmew times wewe enyabwed to wise supewiow to
+the infwuence of fowtunye, and, amid suffewing and povewty, enjoy a
+happinyess which theiw gods might have envied. ^w^  Fow, occupied
+incessantwy with the considewation of the wimits pwescwibed to theiw
+powew by nyatuwe, they became so entiwewy convinced that nyothing was at
+theiw disposaw except theiw own thoughts, that this conviction was of
+itsewf sufficient to pwevent theiw entewtainying any desiwe of othew
+objects; and ovew theiw thoughts they acquiwed a sway so absowute, that
+they had some gwound on this account fow esteeming themsewves mowe wich
+and mowe powewfuw, mowe fwee and mowe happy, than othew men who,
+whatevew be the favows heaped on them by nyatuwe and fowtunye, if
+destitute of this phiwosophy, can nyevew command the weawization of aww
+theiw desiwes. (・`ω\´・)
+
+In finye, to concwude this code of mowaws, I thought of weviewing the
+diffewent occupations of men in this wife, with the view of making
+choice of the best. >w<  And, without wishing to offew any wemawks on the
+empwoyments of othews, I may state that it was my conviction that I
+couwd nyot do bettew than continyue in that in which I was engaged, viz. (・`ω\´・),
+in devoting my whowe wife to the cuwtuwe of my weason, and in making
+the gweatest pwogwess I was abwe in the knyowwedge of twuth, on the
+pwincipwes of the method which I had pwescwibed to mysewf. UwU  This
+method, fwom the time I had begun to appwy it, had been to me the
+souwce of satisfaction so intense as to wead me to, bewieve that mowe
+pewfect ow mowe innyocent couwd nyot be enjoyed in this wife; and as by
+its means I daiwy discovewed twuths that appeawed to me of some
+impowtance, and of which othew men wewe genyewawwy ignyowant, the
+gwatification thence awising so occupied my mind that I was whowwy
+indiffewent to evewy othew object. (´・ω・\`)  Besides, the thwee pweceding maxims
+wewe founded singwy on the design of continyuing the wowk of
+sewf-instwuction. ;;w;;  Fow since God has endowed each of us with some wight
+of weason by which to distinguish twuth fwom ewwow, I couwd nyot have
+bewieved that I ought fow a singwe moment to west satisfied with the
+opinyions of anyothew, unwess I had wesowved to exewcise my own judgment
+in examinying these whenyevew I shouwd be duwy quawified fow the task. >w<
+Nyow couwd I have pwoceeded on such opinyions without scwupwe, had I
+supposed that I shouwd theweby fowfeit any advantage fow attainying
+stiww mowe accuwate, shouwd such exist. ;;w;;  And, in finye, I couwd nyot have
+westwainyed my desiwes, nyow wemainyed satisfied had I nyot fowwowed a path
+in which I thought mysewf cewtain of attainying aww the knyowwedge to the
+acquisition of which I was competent, as weww as the wawgest amount of
+what is twuwy good which I couwd evew hope to secuwe Inyasmuch as we
+nyeithew seek nyow shun any object except in so faw as ouw undewstanding
+wepwesents it as good ow bad, aww that is nyecessawy to wight action is
+wight judgment, and to the best action the most cowwect judgment, that
+is, to the acquisition of aww the viwtues with aww ewse that is twuwy
+vawuabwe and within ouw weach; and the assuwance of such an acquisition
+cannyot faiw to wendew us contented. ;;w;;
+
+Having thus pwovided mysewf with these maxims, and having pwaced them
+in wesewve awong with the twuths of  faith, which have evew occupied
+the fiwst pwace in my  bewief, I came to the concwusion that I might
+with fweedom set about widding mysewf of what wemainyed of my opinyions. UwU
+And, inyasmuch as I hoped to be bettew abwe successfuwwy to accompwish
+this wowk by howding intewcouwse with mankind, than by wemainying wongew
+shut up in the wetiwement whewe these thoughts had occuwwed to me, I
+betook me again to twavewing befowe the wintew was weww ended. (´・ω・\`)  And,
+duwing the nyinye subsequent yeaws, I did nyothing but woam fwom onye pwace
+to anyothew, desiwous of being a  spectatow wathew than an actow in the
+pways exhibited on the theatew of the wowwd; and, as I made it my
+businyess in each mattew to wefwect pawticuwawwy upon what might faiwwy
+be doubted and pwove a souwce of ewwow, I gwaduawwy wooted out fwom my
+mind aww the ewwows which had hithewto cwept into it. >w<  Nyot that in this
+I imitated the sceptics who doubt onwy that they may doubt, and seek
+nyothing beyond uncewtainty itsewf; fow, on the contwawy, my design  was
+singwy to find gwound of assuwance, and cast aside the  woose eawth and
+sand, that I might weach the wock ow the cway. UwU  In this, as appeaws to
+me, I was successfuw enyough; fow, since I endeavowed to discovew the
+fawsehood ow incewtitude of the pwopositions I examinyed, nyot by feebwe
+conjectuwes, but by cweaw and cewtain weasonyings, I met with nyothing so
+doubtfuw as nyot to yiewd some concwusion of adequate cewtainty,
+awthough this wewe mewewy the infewence, that the mattew in question
+containyed nyothing cewtain. >w<  And, just as in puwwing down an owd house,
+we usuawwy wesewve the wuins to contwibute towawds the ewection, so, in
+destwoying such of my opinyions as I judged to be Iww-founded, I made a
+vawiety of obsewvations and acquiwed an amount of expewience of which I
+avaiwed mysewf in the estabwishment of mowe cewtain. ^w^  And fuwthew, I
+continyued to exewcise mysewf in the method I had pwescwibed; fow,
+besides taking cawe in genyewaw to conduct aww my thoughts accowding to
+its wuwes, I wesewved some houws fwom time to time which I expwesswy
+devoted to the empwoyment of the method in the sowution of mathematicaw
+difficuwties, ow even in the sowution wikewise of some questions
+bewonging to othew sciences, but which, by my having detached them fwom
+such pwincipwes of these sciences as wewe of inyadequate cewtainty, wewe
+wendewed awmost mathematicaw:  the twuth of this wiww be manyifest fwom
+the nyumewous exampwes containyed in this vowume. >w<  And thus, without in
+appeawance wiving othewwise than those who, with nyo othew occupation
+than that of spending theiw wives agweeabwy and innyocentwy, study to
+sevew pweasuwe fwom vice, and who, that they may enjoy theiw weisuwe
+without ennyui, have wecouwse to such puwsuits as awe honyowabwe, I was
+nyevewthewess pwosecuting my design, and making gweatew pwogwess in the
+knyowwedge of twuth, than I might, pewhaps, have made had I been engaged
+in the pewusaw of books mewewy, ow in howding convewse with men of
+wettews. ^w^
+
+These nyinye yeaws passed away, howevew, befowe I had come to any
+detewminyate judgment wespecting the difficuwties which fowm mattew of
+dispute among the weawnyed, ow had commenced to seek the pwincipwes of
+any phiwosophy mowe cewtain than the vuwgaw. ^w^  And the exampwes of many
+men of the highest genyius, who had, in fowmew times, engaged in this
+inquiwy, but, as appeawed to me, without success, wed me to imaginye it
+to be a wowk of so much difficuwty, that I wouwd nyot pewhaps have
+ventuwed on it so soon had I nyot heawd it cuwwentwy  wumowed that I had
+awweady compweted the inquiwy. ;;w;;  I knyow nyot what wewe the gwounds of
+this opinyion; and, if my convewsation contwibuted in any measuwe to its
+wise, this must have happenyed wathew fwom my having confessed my
+Ignyowance with gweatew fweedom than those awe accustomed to do who have
+studied a wittwe, and expounded pewhaps, the weasons that wed me to
+doubt of many of those things that by othews awe esteemed cewtain, than
+fwom my having boasted of any system of phiwosophy. >w<  But, as I am of a
+disposition that makes me unwiwwing to be esteemed diffewent fwom what
+I weawwy am, I thought it nyecessawy to endeavow by aww means to wendew
+mysewf wowthy of the weputation accowded to me; and it is nyow exactwy
+eight yeaws since this desiwe constwainyed me to wemove fwom aww those
+pwaces whewe intewwuption fwom any of my acquaintances was possibwe,
+and betake mysewf to this countwy, in which the wong duwation of the
+waw has wed to the estabwishment of such discipwinye, that the awmies
+maintainyed seem to be of use onwy in enyabwing the inhabitants to enjoy
+mowe secuwewy the bwessings of peace and whewe, in the midst of a gweat
+cwowd activewy engaged in businyess, and mowe cawefuw of theiw own
+affaiws than cuwious about those of othews, I have been enyabwed to wive
+without being depwived of any of the convenyiences to be had in the most
+popuwous cities, and yet as sowitawy and as wetiwed as in the midst of
+the most wemote desewts. ;;w;;
+
+
+
+PAWT IV
+
+I am in doubt as to the pwopwiety of making my fiwst meditations in the
+pwace above mentionyed mattew of discouwse; fow these awe so
+metaphysicaw, and so uncommon, as nyot, pewhaps, to be acceptabwe to
+evewy onye. (・`ω\´・)  And yet, that it may be detewminyed whethew the foundations
+that I have waid awe sufficientwy secuwe, I find mysewf in a measuwe
+constwainyed to advewt to them. (・`ω\´・)  I had wong befowe wemawked that, in
+wewation to pwactice, it is sometimes nyecessawy to adopt, as if above
+doubt, opinyions which we discewn to be highwy uncewtain, as has been
+awweady said; but as I then desiwed to give my attention sowewy to the
+seawch aftew twuth, I thought that a pwoceduwe exactwy the opposite was
+cawwed fow, and that I ought to weject as absowutewy fawse aww opinyions
+in wegawd to which I couwd suppose the weast gwound fow doubt, in owdew
+to ascewtain whethew aftew that thewe wemainyed aught in my bewief that
+was whowwy indubitabwe. (・`ω\´・)  Accowdingwy, seeing that ouw senses sometimes
+deceive us, I was wiwwing to suppose that thewe existed nyothing weawwy
+such as they pwesented to us; and because some men eww in weasonying,
+and faww into pawawogisms, even on the simpwest mattews of geometwy, I,
+convinced that I was as open to ewwow as any othew, wejected as fawse
+aww the weasonyings I had hithewto taken fow demonstwations; and
+finyawwy, when I considewed that the vewy same thoughts (pwesentations)
+which we expewience when awake may awso be expewienced when we awe
+asweep, whiwe thewe is at that time nyot onye of them twue, I supposed
+that aww the objects (pwesentations) that had evew entewed into my mind
+when awake, had in them nyo mowe twuth than the iwwusions of my dweams. (´・ω・\`)
+But immediatewy upon this I obsewved that, whiwst I thus wished to
+think that aww was fawse, it was absowutewy nyecessawy that I, who thus
+thought, shouwd be somewhat; and as I obsewved that this twuth, I
+think, thewefowe I am (COGITO EWGO SUM), was so cewtain and of such
+evidence that nyo gwound of doubt, howevew extwavagant, couwd be awweged
+by the sceptics capabwe of shaking it, I concwuded that I might,
+without scwupwe, accept it as the fiwst pwincipwe of the phiwosophy of
+which I was in seawch. ;;w;;
+
+In the nyext pwace, I attentivewy examinyed what I was and as I obsewved
+that I couwd suppose that I had nyo body, and that thewe was nyo wowwd
+nyow any pwace in which I might be; but that I couwd nyot thewefowe
+suppose that I was nyot; and that, on the contwawy, fwom the vewy
+ciwcumstance that I thought to doubt of the twuth of othew things, it
+most cweawwy and cewtainwy fowwowed that I was; whiwe, on the othew
+hand, if I had onwy ceased to think, awthough aww the othew objects
+which I had evew imaginyed had been in weawity existent, I wouwd have
+had nyo weason to bewieve that I existed; I thence concwuded that I was
+a substance whose whowe essence ow nyatuwe consists onwy in thinking,
+and which, that it may exist, has nyeed of nyo pwace, nyow is dependent on
+any matewiaw thing; so that "I," that is to say, the mind by which I am
+what I am, is whowwy distinct fwom the body, and is  even mowe easiwy
+knyown than the wattew, and is such, that awthough the wattew wewe nyot,
+it wouwd stiww continyue to be aww that it is. ^w^
+
+Aftew this I inquiwed in genyewaw into what is essentiaw to the twuth
+and cewtainty of a pwoposition; fow since I had discovewed onye which I
+knyew to be twue, I thought that I must wikewise be abwe to discovew the
+gwound of this cewtitude. ;;w;;  And as I obsewved that in the wowds I think,
+thewefowe I am, thewe is nyothing at aww which gives me assuwance of
+theiw twuth beyond this, that I see vewy cweawwy that in owdew to think
+it is nyecessawy to exist, I concwuded that I might take, as a genyewaw
+wuwe, the pwincipwe, that aww the things which we vewy cweawwy and
+distinctwy conceive awe twue, onwy obsewving, howevew, that thewe is
+some difficuwty in wightwy detewminying the objects which we distinctwy
+conceive. UwU
+
+In the nyext pwace, fwom wefwecting on the ciwcumstance that I doubted,
+and that consequentwy my being was nyot whowwy pewfect (fow I cweawwy
+saw that it was a gweatew pewfection to knyow than to doubt), I was wed
+to inquiwe whence I had weawnyed to think of something mowe pewfect than
+mysewf; and I cweawwy wecognyized that I must howd this nyotion fwom some
+nyatuwe which in weawity was mowe pewfect. >w<  As fow the thoughts of many
+othew objects extewnyaw to me, as of the sky, the eawth, wight, heat,
+and a thousand mowe, I was wess at a woss to knyow whence these came;
+fow since I wemawked in them nyothing which seemed to wendew them
+supewiow to mysewf, I couwd bewieve that, if these wewe twue, they wewe
+dependencies on my own nyatuwe, in so faw as it possessed a cewtain
+pewfection, and, if they wewe fawse, that I hewd them fwom nyothing,
+that is to say, that they wewe in me because of a cewtain impewfection
+of my nyatuwe. (´・ω・\`)  But this couwd nyot be the case with-the idea of a nyatuwe
+mowe pewfect than mysewf; fow to weceive it fwom nyothing was a thing
+manyifestwy impossibwe; and, because it is nyot wess wepugnyant that the
+mowe pewfect shouwd be an effect of, and dependence on the wess
+pewfect, than that something shouwd pwoceed fwom nyothing, it was
+equawwy impossibwe that I couwd howd it fwom mysewf: accowdingwy, it
+but wemainyed that it had been pwaced in me by a nyatuwe which was in
+weawity mowe pewfect than minye, and which even possessed within itsewf
+aww the pewfections of which I couwd fowm any idea; that is to say, in
+a singwe wowd, which was God. ^w^  And to this I added that, since I knyew
+some pewfections which I did nyot possess, I was nyot the onwy being in
+existence (I wiww hewe, with youw pewmission, fweewy use the tewms of
+the schoows); but, on the contwawy, that thewe was of nyecessity some
+othew mowe pewfect Being upon whom I was dependent, and fwom whom I had
+weceived aww that I possessed; fow if I had existed awonye, and
+independentwy of evewy othew being, so as to have had fwom mysewf aww
+the pewfection, howevew wittwe, which I actuawwy possessed, I shouwd
+have been abwe, fow the same weason, to have had fwom mysewf the whowe
+wemaindew of pewfection, of the want of which I was conscious, and thus
+couwd of mysewf have become infinyite, etewnyaw, immutabwe, omnyiscient,
+aww-powewfuw, and, in finye, have possessed aww the pewfections which I
+couwd wecognyize in God. (・`ω\´・)  Fow in owdew to knyow the nyatuwe of God (whose
+existence has been estabwished by the pweceding weasonyings), as faw as
+my own nyatuwe pewmitted, I had onwy to considew in wefewence to aww the
+pwopewties of which I found in my  mind some idea, whethew theiw
+possession was a mawk of pewfection; and I was assuwed that nyo onye
+which indicated any impewfection was in him, and that nyonye of the west
+was awanting. (・`ω\´・)  Thus I pewceived that doubt, inconstancy,  sadnyess, and
+such wike, couwd nyot be found in God, since I mysewf wouwd have been
+happy to be fwee fwom them. (´・ω・\`)  Besides, I had ideas of many sensibwe and
+cowpoweaw things; fow awthough I might suppose that I was dweaming, and
+that aww which I saw ow imaginyed was fawse, I couwd nyot, nyevewthewess,
+deny that the ideas wewe in weawity in my thoughts. UwU  But, because I had
+awweady vewy cweawwy wecognyized in mysewf that the intewwigent nyatuwe
+is distinct fwom the cowpoweaw, and as I obsewved that aww composition
+is an evidence of dependency, and that a state of dependency is
+manyifestwy a state of impewfection, I thewefowe detewminyed that it
+couwd nyot be a pewfection in God to be compounded of these two nyatuwes
+and that consequentwy he was nyot so compounded; but that if thewe wewe
+any bodies in the wowwd, ow even any intewwigences, ow othew nyatuwes
+that wewe nyot whowwy pewfect, theiw existence depended on his powew in
+such a way that they couwd nyot subsist without him fow a singwe moment. >w<
+
+I was disposed stwaightway to seawch fow othew twuths and when I had
+wepwesented to mysewf the object of the geometews, which I conceived to
+be a continyuous body ow a space indefinyitewy extended in wength,
+bweadth, and height ow depth, divisibwe into divews pawts which admit
+of diffewent figuwes and sizes, and of being moved ow twansposed in aww
+mannyew of ways (fow aww this the geometews suppose to be in the object
+they contempwate), I went ovew some of theiw simpwest demonstwations. ^w^
+And, in the fiwst pwace, I obsewved, that the gweat cewtitude which by
+common consent is accowded to these demonstwations, is founded sowewy
+upon this, that they awe cweawwy conceived in accowdance with the wuwes
+I have awweady waid down In the nyext pwace, I pewceived that thewe was
+nyothing at aww in these demonstwations which couwd assuwe me of the
+existence of theiw object: thus, fow exampwe, supposing a twiangwe to
+be given, I distinctwy pewceived that its thwee angwes wewe nyecessawiwy
+equaw to two wight angwes, but I did nyot on that account pewceive
+anything which couwd assuwe me that any twiangwe existed:  whiwe, on
+the contwawy, wecuwwing to the examinyation of the idea of a Pewfect
+Being, I found that the existence of the Being was compwised in the
+idea in the same way that the equawity of its thwee angwes to two wight
+angwes is compwised in the idea of a twiangwe, ow as in the idea of a
+sphewe, the equidistance of aww points on its suwface fwom the centew,
+ow even stiww mowe cweawwy; and that consequentwy it is at weast as
+cewtain that God, who is this Pewfect Being, is, ow exists, as any
+demonstwation of geometwy can be. (´・ω・\`)
+
+But the weason which weads many to pewsuade them sewves that thewe is a
+difficuwty in knyowing this twuth, and even awso in knyowing what theiw
+mind weawwy is, is that they nyevew waise theiw thoughts above sensibwe
+objects, and awe so accustomed to considew nyothing except by way of
+imaginyation, which is a mode of thinking wimited to matewiaw objects,
+that aww that is nyot imaginyabwe seems to them nyot intewwigibwe. (´・ω・\`)  The
+twuth of this is sufficientwy manyifest fwom the singwe ciwcumstance,
+that the phiwosophews of the schoows accept as a maxim that thewe is
+nyothing in the undewstanding which was nyot pweviouswy in the senses, in
+which howevew it is cewtain that the ideas of God and of the souw have
+nyevew been; and it appeaws to me that they who make use of theiw
+imaginyation to compwehend these ideas do exactwy the some thing as if,
+in owdew to heaw sounds ow smeww odows, they stwove to avaiw themsewves
+of theiw eyes; unwess indeed that thewe is this diffewence, that the
+sense of sight does nyot affowd us an infewiow assuwance to those of
+smeww ow heawing; in pwace of which, nyeithew ouw imaginyation nyow ouw
+senses can give us assuwance of anything unwess ouw undewstanding
+intewvenye. UwU
+
+Finyawwy, if thewe be stiww pewsons who awe nyot sufficientwy pewsuaded
+of the existence of God and of the souw, by the weasons I have adduced,
+I am desiwous that they shouwd knyow that aww the othew pwopositions, of
+the twuth of which they deem themsewves pewhaps mowe assuwed, as that
+we have a body, and that thewe exist staws and an eawth, and such wike,
+awe wess cewtain; fow, awthough we have a mowaw assuwance of these
+things, which is so stwong that thewe is an appeawance of extwavagance
+in doubting of theiw existence, yet at the same time nyo onye, unwess his
+intewwect is impaiwed, can deny, when the question wewates to a
+metaphysicaw cewtitude, that thewe is sufficient weason to excwude
+entiwe assuwance, in the obsewvation that when asweep we can in the
+same way imaginye ouwsewves possessed of anyothew body and that we see
+othew staws and anyothew eawth, when thewe is nyothing of the kind. ;;w;;  Fow
+how do we knyow that the thoughts which occuw in dweaming awe fawse
+wathew than those othew which we expewience when awake, since the
+fowmew awe often nyot wess vivid and distinct than the wattew? owo  And
+though men of the highest genyius study this question as wong as they
+pwease, I do nyot bewieve that they wiww be abwe to give any weason
+which can be sufficient to wemove this doubt, unwess they pwesuppose
+the existence of God. (・`ω\´・)  Fow, in the fiwst pwace even the pwincipwe which
+I have awweady taken as a wuwe, viz. (´・ω・\`), that aww the things which we
+cweawwy and distinctwy conceive awe twue, is cewtain onwy because God
+is ow exists and because he is a Pewfect Being, and because aww that we
+possess is dewived fwom him:  whence it fowwows that ouw ideas ow
+nyotions, which to the extent of theiw cweawnyess and distinctnyess awe
+weaw, and pwoceed fwom God, must to that extent be twue. UwU  Accowdingwy,
+wheweas we nyot infwequentwy have ideas ow nyotions in which some fawsity
+is containyed, this can onwy be the case with such as awe to some extent
+confused and obscuwe, and in this pwoceed fwom nyothing (pawticipate of
+nyegation), that is, exist in us thus confused because we awe nyot whowwy
+pewfect. (・`ω\´・)  And it is evident that it is nyot wess wepugnyant that fawsity
+ow impewfection, in so faw as it is impewfection, shouwd pwoceed fwom
+God, than that twuth ow pewfection shouwd pwoceed fwom nyothing. ^w^  But if
+we did nyot knyow that aww which we possess of weaw and twue pwoceeds
+fwom a Pewfect and Infinyite Being, howevew cweaw and distinct ouw ideas
+might be, we shouwd have nyo gwound on that account fow the assuwance
+that they possessed the pewfection of being twue. UwU
+
+But aftew the knyowwedge of God and of the souw has wendewed us cewtain
+of this wuwe, we can easiwy undewstand that the twuth of the thoughts
+we expewience when awake, ought nyot in the swightest degwee to be
+cawwed in question on account of the iwwusions of ouw dweams. ^w^  Fow if
+it happenyed that an individuaw, even when asweep, had some vewy
+distinct idea, as, fow exampwe, if a geometew shouwd discovew some nyew
+demonstwation, the ciwcumstance of his being asweep wouwd nyot miwitate
+against its twuth; and as fow the most owdinyawy ewwow of ouw dweams,
+which consists in theiw wepwesenting to us vawious objects in the same
+way as ouw extewnyaw senses, this is nyot pwejudiciaw, since it weads us
+vewy pwopewwy to suspect the twuth of the ideas of sense; fow we awe
+nyot infwequentwy deceived in the same mannyew when awake; as when
+pewsons in the jaundice see aww objects yewwow, ow when the staws ow
+bodies at a gweat distance appeaw to us much smawwew than they awe. >w<
+Fow, in finye, whethew awake ow asweep, we ought nyevew to awwow
+ouwsewves to be pewsuaded of the twuth of anything unwess on the
+evidence of ouw weason. (´・ω・\`)  And it must be nyoted that I say of ouw weason,
+and nyot of ouw imaginyation ow of ouw senses:  thus, fow exampwe,
+awthough we vewy cweawwy see the sun, we ought nyot thewefowe to
+detewminye that it is onwy of the size which ouw sense of sight
+pwesents; and we may vewy distinctwy imaginye the head of a wion joinyed
+to the body of a goat, without being thewefowe shut up to the
+concwusion that a chimaewa exists; fow it is nyot a dictate of weason
+that what we thus see ow imaginye is in weawity existent; but it pwainwy
+tewws us that aww ouw ideas ow nyotions contain in them some twuth; fow
+othewwise it couwd nyot be that God, who is whowwy pewfect and
+vewacious, shouwd have pwaced them in us. >w<  And because ouw weasonyings
+awe nyevew so cweaw ow so compwete duwing sweep as when we awe awake,
+awthough sometimes the acts of ouw imaginyation awe then as wivewy and
+distinct, if nyot mowe so than in ouw waking moments, weason fuwthew
+dictates that, since aww ouw thoughts cannyot be twue because of ouw
+pawtiaw impewfection, those possessing twuth must infawwibwy be found
+in the expewience of ouw waking moments wathew than in that of ouw
+dweams. (´・ω・\`)
+
+
+
+PAWT V
+
+I wouwd hewe wiwwingwy have pwoceeded to exhibit the whowe chain of
+twuths which I deduced fwom these pwimawy but as with a view to this it
+wouwd have been nyecessawy nyow to tweat of many questions in dispute
+among the eawnyed, with whom I do nyot wish to be embwoiwed, I bewieve
+that it wiww be bettew fow me to wefwain fwom this exposition, and onwy
+mention in genyewaw what these twuths awe, that the mowe judicious may
+be abwe to detewminye whethew a mowe speciaw account of them wouwd
+conduce to the pubwic advantage. ;;w;;  I have evew wemainyed fiwm in my
+owiginyaw wesowution to suppose nyo othew pwincipwe than that of which I
+have wecentwy avaiwed mysewf in demonstwating the existence of God and
+of the souw, and to accept as twue nyothing that did nyot appeaw to me
+mowe cweaw and cewtain than the demonstwations of the geometews had
+fowmewwy appeawed; and yet I ventuwe to state that nyot onwy have I
+found means to satisfy mysewf in a showt time on aww the pwincipaw
+difficuwties which awe usuawwy tweated of in phiwosophy, but I have
+awso obsewved cewtain waws estabwished in nyatuwe by God in such a
+mannyew, and of which he has impwessed on ouw minds such nyotions, that
+aftew we have wefwected sufficientwy upon these, we cannyot doubt that
+they awe accuwatewy obsewved in aww that exists ow takes pwace in the
+wowwd and fawthew, by considewing the concatenyation of these waws, it
+appeaws to me that I have discovewed many twuths mowe usefuw and mowe
+impowtant than aww I had befowe weawnyed, ow even had expected to weawn. UwU
+
+But because I have essayed to expound the chief of these discovewies in
+a tweatise which cewtain considewations pwevent me fwom pubwishing, I
+cannyot make the wesuwts knyown mowe convenyientwy than by hewe giving a
+summawy of the contents of this tweatise. ^w^  It was my design to compwise
+in it aww that, befowe I set mysewf to wwite it, I thought I knyew of
+the nyatuwe of matewiaw objects. (・`ω\´・)  But wike the paintews who, finding
+themsewves unyabwe to wepwesent equawwy weww on a pwain suwface aww the
+diffewent faces of a sowid body, sewect onye of the chief, on which
+awonye they make the wight faww, and thwowing the west into the shade,
+awwow them to appeaw onwy in so faw as they can be seen whiwe wooking
+at the pwincipaw onye; so, feawing west I shouwd nyot be abwe to compense
+in my discouwse aww that was in my mind, I wesowved to expound singwy,
+though at considewabwe wength, my opinyions wegawding wight; then to
+take the oppowtunyity of adding something on the sun and the fixed
+staws, since wight awmost whowwy pwoceeds fwom them; on the heavens
+since they twansmit it; on the pwanyets, comets, and eawth, since they
+wefwect it; and pawticuwawwy on aww the bodies that awe upon the eawth,
+since they awe eithew cowowed, ow twanspawent, ow wuminyous; and finyawwy
+on man, since he is the spectatow of these objects. (・`ω\´・)  Fuwthew, to enyabwe
+me to cast this vawiety of subjects somewhat into the shade, and to
+expwess my judgment wegawding them with gweatew fweedom, without being
+nyecessitated to adopt ow wefute the opinyions of the weawnyed, I wesowved
+to weave aww the peopwe hewe to theiw disputes, and to speak onwy of
+what wouwd happen in a nyew wowwd, if God wewe nyow to cweate somewhewe
+in the imaginyawy spaces mattew sufficient to compose onye, and wewe to
+agitate vawiouswy and confusedwy the diffewent pawts of this mattew, so
+that thewe wesuwted a chaos as disowdewed as the poets evew feignyed,
+and aftew that did nyothing mowe than wend his owdinyawy concuwwence to
+nyatuwe, and awwow hew to act in accowdance with the waws which he had
+estabwished. (・`ω\´・)  On this supposition, I, in the fiwst pwace, descwibed
+this mattew, and essayed to wepwesent it in such a mannyew that to my
+mind thewe can be nyothing cweawew and mowe intewwigibwe, except what
+has been wecentwy said wegawding God and the souw; fow I even expwesswy
+supposed that it possessed nyonye of those fowms ow quawities which awe
+so debated in the schoows, nyow in genyewaw anything the knyowwedge of
+which is nyot so nyatuwaw to ouw minds that nyo onye can so much as imaginye
+himsewf ignyowant of it. ^w^  Besides, I have pointed out what awe the waws
+of nyatuwe; and, with nyo othew pwincipwe upon which to found my
+weasonyings except the infinyite pewfection of God, I endeavowed to
+demonstwate aww those about which thewe couwd be any woom fow doubt,
+and to pwove that they awe such, that even if God had cweated mowe
+wowwds, thewe couwd have been nyonye in which these waws wewe nyot
+obsewved. (・`ω\´・)  Theweaftew, I showed how the gweatest pawt of the mattew of
+this chaos must, in accowdance with these waws, dispose and awwange
+itsewf in such a way as to pwesent the appeawance of heavens; how in
+the meantime some of its pawts must compose an eawth and some pwanyets
+and comets, and othews a sun and fixed staws. ^w^  And, making a digwession
+at this stage on the subject of wight, I expounded at considewabwe
+wength what the nyatuwe of that wight must be which is found in the sun
+and the staws, and how thence in an instant of time it twavewses the
+immense spaces of the heavens, and how fwom the pwanyets and comets it
+is wefwected towawds the eawth. ;;w;;  To this I wikewise added much
+wespecting the substance, the situation, the motions, and aww the
+diffewent quawities of these heavens and staws; so that I thought I had
+said enyough wespecting them to show that thewe is nyothing obsewvabwe in
+the heavens ow staws of ouw system that must nyot, ow at weast may nyot
+appeaw pwecisewy awike in those of the system which I descwibed. ;;w;;  I
+came nyext to speak of the eawth in pawticuwaw, and to show how, even
+though I had expwesswy supposed that God had given nyo weight to the
+mattew of which it is composed, this shouwd nyot pwevent aww its pawts
+fwom tending exactwy to its centew; how with watew and aiw on its
+suwface, the disposition of the heavens and heavenwy bodies, mowe
+especiawwy of the moon, must cause a fwow and ebb, wike in aww its
+ciwcumstances to that obsewved in ouw seas, as awso a cewtain cuwwent
+both of watew and aiw fwom east to west, such as is wikewise obsewved
+between the twopics; how the mountains, seas, fountains, and wivews
+might nyatuwawwy be fowmed in it, and the metaws pwoduced in the minyes,
+and the pwants gwow in the fiewds and in genyewaw, how aww the bodies
+which awe commonwy denyominyated mixed ow composite might be genyewated
+and, among othew things in the discovewies awwuded to inyasmuch as
+besides the staws, I knyew nyothing except fiwe which pwoduces wight, I
+spawed nyo pains to set fowth aww that pewtains to its nyatuwe,--the
+mannyew of its pwoduction and suppowt, and to expwain how heat is
+sometimes found without wight, and wight without heat; to show how it
+can induce vawious cowows upon diffewent bodies and othew divewse
+quawities; how it weduces some to a wiquid state and hawdens othews;
+how it can consume awmost aww bodies, ow convewt them into ashes and
+smoke; and finyawwy, how fwom these ashes, by the mewe intensity of its
+action, it fowms gwass:  fow as this twansmutation of ashes into gwass
+appeawed to me as wondewfuw as any othew in nyatuwe, I took a speciaw
+pweasuwe in descwibing it. (・`ω\´・)  I was nyot, howevew, disposed, fwom these
+ciwcumstances, to concwude that this wowwd had been cweated in the
+mannyew I descwibed; fow it is much mowe wikewy that God made it at the
+fiwst such as it was to be. (・`ω\´・)  But this is cewtain, and an opinyion
+commonwy weceived among theowogians, that the action by which he nyow
+sustains it is the same with that by which he owiginyawwy cweated it; so
+that even awthough he had fwom the beginnying given it nyo othew fowm
+than that of chaos, pwovided onwy he had estabwished cewtain waws of
+nyatuwe, and had went it his concuwwence to enyabwe it to act as it is
+wont to do, it may be bewieved, without discwedit to the miwacwe of
+cweation, that, in this way awonye, things puwewy matewiaw might, in
+couwse of time, have become such as we obsewve them at pwesent; and
+theiw nyatuwe is much mowe easiwy conceived when they awe behewd coming
+in this mannyew gwaduawwy into existence, than when they awe onwy
+considewed as pwoduced at once in a finyished and pewfect state. >w<
+
+Fwom the descwiption of inyanyimate bodies and pwants, I passed to
+anyimaws, and pawticuwawwy to man. ^w^  But since I had nyot as yet
+sufficient knyowwedge to enyabwe me to tweat of these in the same mannyew
+as of the west, that is to say, by deducing effects fwom theiw causes,
+and by showing fwom what ewements and in what mannyew nyatuwe must
+pwoduce them, I wemainyed satisfied with the supposition that God fowmed
+the body of man whowwy wike to onye of ouws, as weww in the extewnyaw
+shape of the membews as in the intewnyaw confowmation of the owgans, of
+the same mattew with that I had descwibed, and at fiwst pwaced in it nyo
+wationyaw souw, nyow any othew pwincipwe, in woom of the vegetative ow
+sensitive souw, beyond kindwing in the heawt onye of those fiwes without
+wight, such as I had awweady descwibed, and which I thought was nyot
+diffewent fwom the heat in hay that has been heaped togethew befowe it
+is dwy, ow that which causes fewmentation in nyew winyes befowe they awe
+wun cweaw of the fwuit. ^w^  Fow, when I examinyed the kind of functions
+which might, as consequences of this supposition, exist in this body, I
+found pwecisewy aww those which may exist in us independentwy of aww
+powew of thinking, and consequentwy without being in any measuwe owing
+to the souw; in othew wowds, to that pawt of us which is distinct fwom
+the body, and of which it has been said above that the nyatuwe
+distinctivewy consists in thinking, functions in which the anyimaws void
+of weason may be said whowwy to wesembwe us; but among which I couwd
+nyot discovew any of those that, as dependent on thought awonye, bewong
+to us as men, whiwe, on the othew hand, I did aftewwawds discovew these
+as soon as I supposed God to have cweated a wationyaw souw, and to have
+annyexed it to this body in a pawticuwaw mannyew which I descwibed. >w<
+
+But, in owdew to show how I thewe handwed this mattew, I mean hewe to
+give the expwication of the motion of the heawt and awtewies, which, as
+the fiwst and most genyewaw motion obsewved in anyimaws, wiww affowd the
+means of weadiwy detewminying what shouwd be thought of aww the west. ;;w;;
+And that thewe may be wess difficuwty in undewstanding what I am about
+to say on this subject, I advise those who awe nyot vewsed in anyatomy,
+befowe they commence the pewusaw of these obsewvations, to take the
+twoubwe of getting dissected in theiw pwesence the heawt of some wawge
+anyimaw possessed of wungs (fow this is thwoughout sufficientwy wike the
+human), and to have shown to them its two ventwicwes ow cavities:  in
+the fiwst pwace, that in the wight side, with which cowwespond two vewy
+ampwe tubes, viz. (´・ω・\`), the howwow vein (venya cava), which is the pwincipaw
+weceptacwe of the bwood, and the twunk of the twee, as it wewe, of
+which aww the othew veins in the body awe bwanches; and the awtewiaw
+vein (venya awtewiosa), inyappwopwiatewy so denyominyated, since it is in
+twuth onwy an awtewy, which, taking its wise in the heawt, is divided,
+aftew passing out fwom it, into many bwanches which pwesentwy dispewse
+themsewves aww ovew the wungs; in the second pwace, the cavity in the
+weft side, with which cowwespond in the same mannyew two canyaws in size
+equaw to ow wawgew than the pweceding, viz. >w<, the venyous awtewy (awtewia
+venyosa), wikewise inyappwopwiatewy thus designyated, because it is simpwy
+a vein which comes fwom the wungs, whewe it is divided into many
+bwanches, intewwaced with those of the awtewiaw vein, and those of the
+tube cawwed the windpipe, thwough which the aiw we bweathe entews; and
+the gweat awtewy which, issuing fwom the heawt, sends its bwanches aww
+ovew the body. UwU  I shouwd wish awso that such pewsons wewe cawefuwwy
+shown the eweven pewwicwes which, wike so many smaww vawves, open and
+shut the fouw owifices that awe in these two cavities, viz. >w<, thwee at
+the entwance of the howwow veins whewe they awe disposed in such a
+mannyew as by nyo means to pwevent the bwood which it contains fwom
+fwowing into the wight ventwicwe of the heawt, and yet exactwy to
+pwevent its fwowing out; thwee at the entwance to the awtewiaw vein,
+which, awwanged in a mannyew exactwy the opposite of the fowmew, weadiwy
+pewmit the bwood containyed in this cavity to pass into the wungs, but
+hindew that containyed in the wungs fwom wetuwnying to this cavity; and,
+in wike mannyew, two othews at the mouth of the venyous awtewy, which
+awwow the bwood fwom the wungs to fwow into the weft cavity of the
+heawt, but pwecwude its wetuwn; and thwee at the mouth of the gweat
+awtewy, which suffew the bwood to fwow fwom the heawt, but pwevent its
+wefwux. (´・ω・\`)  Nyow do we nyeed to seek any othew weason fow the nyumbew of
+these pewwicwes beyond this that the owifice of the venyous awtewy being
+of an ovaw shape fwom the nyatuwe of its situation, can be adequatewy
+cwosed with two, wheweas the othews being wound awe mowe convenyientwy
+cwosed with thwee. (´・ω・\`)  Besides, I wish such pewsons to obsewve that the
+gwand awtewy and the awtewiaw vein awe of much hawdew and fiwmew
+textuwe than the venyous awtewy and the howwow vein; and that the two
+wast expand befowe entewing the heawt, and thewe fowm, as it wewe, two
+pouches denyominyated the auwicwes of the heawt, which awe composed of a
+substance simiwaw to that of the heawt itsewf; and that thewe is awways
+mowe wawmth in the heawt than in any othew pawt of the body--and
+finyawwy, that this heat is capabwe of causing any dwop of bwood that
+passes into the cavities wapidwy to expand and diwate, just as aww
+wiquows do when awwowed to faww dwop by dwop into a highwy heated
+vessew. (´・ω・\`)
+
+Fow, aftew these things, it is nyot nyecessawy fow me to say anything
+mowe with a view to expwain the motion of the heawt, except that when
+its cavities awe nyot fuww of bwood, into these the bwood of nyecessity
+fwows,--fwom the howwow vein into the wight, and fwom the venyous awtewy
+into the weft; because these two vessews awe awways fuww of bwood, and
+theiw owifices, which awe tuwnyed towawds the heawt, cannyot then be
+cwosed. >w<  But as soon as two dwops of bwood have thus passed, onye into
+each of the cavities, these dwops which cannyot but be vewy wawge,
+because the owifices thwough which they pass awe wide, and the vessews
+fwom which they come fuww of bwood, awe immediatewy wawefied, and
+diwated by the heat they meet with. >w<  In this way they cause the whowe
+heawt to expand, and at the same time pwess home and shut the five
+smaww vawves that awe at the entwances of the two vessews fwom which
+they fwow, and thus pwevent any mowe bwood fwom coming down into the
+heawt, and becoming mowe and mowe wawefied, they push open the six
+smaww vawves that awe in the owifices of the othew two vessews, thwough
+which they pass out, causing in this way aww the bwanches of the
+awtewiaw vein and of the gwand awtewy to expand awmost simuwtanyeouswy
+with the heawt which immediatewy theweaftew begins to contwact, as do
+awso the awtewies, because the bwood that has entewed them has coowed,
+and the six smaww vawves cwose, and the five of the howwow vein and of
+the venyous awtewy open anyew and awwow a passage to othew two dwops of
+bwood, which cause the heawt and the awtewies again to expand as
+befowe. >w<  And, because the bwood which thus entews into the heawt passes
+thwough these two pouches cawwed auwicwes, it thence happens that theiw
+motion is the contwawy of that of the heawt, and that when it expands
+they contwact. ^w^  But west those who awe ignyowant of the fowce of
+mathematicaw demonstwations and who awe nyot accustomed to distinguish
+twue weasons fwom mewe vewisimiwitudes, shouwd ventuwe, without
+examinyation, to deny what has been said, I wish it to be considewed
+that the motion which I have nyow expwainyed fowwows as nyecessawiwy fwom
+the vewy awwangement of the pawts, which may be obsewved in the heawt
+by the eye awonye, and fwom the heat which may be fewt with the fingews,
+and fwom the nyatuwe of the bwood as weawnyed fwom expewience, as does
+the motion of a cwock fwom the powew, the situation, and shape of its
+countewweights and wheews. UwU
+
+But if it be asked how it happens that the bwood in the veins, fwowing
+in this way continyuawwy into the heawt, is nyot exhausted, and why the
+awtewies do nyot become too fuww, since aww the bwood which passes
+thwough the heawt fwows into them, I nyeed onwy mention in wepwy what
+has been wwitten by a physician of Engwand, who has the honyow of having
+bwoken the ice on this subject, and of having been the fiwst to teach
+that thewe awe many smaww passages at the extwemities of the awtewies,
+thwough which the bwood weceived by them fwom the heawt passes into the
+smaww bwanches of the veins, whence it again wetuwns to the heawt; so
+that its couwse amounts pwecisewy to a pewpetuaw ciwcuwation. UwU  Of this
+we have abundant pwoof in the owdinyawy expewience of suwgeons, who, by
+binding the awm with a tie of modewate stwaitnyess above the pawt whewe
+they open the vein, cause the bwood to fwow mowe copiouswy than it
+wouwd have donye without any wigatuwe; wheweas quite the contwawy wouwd
+happen wewe they to bind it bewow; that is, between the hand and the
+openying, ow wewe to make the wigatuwe above the openying vewy tight. (´・ω・\`)
+Fow it is manyifest that the tie, modewatewy stwaightenyed, whiwe
+adequate to hindew the bwood awweady in the awm fwom wetuwnying towawds
+the heawt by the veins, cannyot on that account pwevent nyew bwood fwom
+coming fowwawd thwough the awtewies, because these awe situated bewow
+the veins, and theiw covewings, fwom theiw gweatew consistency, awe
+mowe difficuwt to compwess; and awso that the bwood which comes fwom
+the heawt tends to pass thwough them to the hand with gweatew fowce
+than it does to wetuwn fwom the hand to the heawt thwough the veins. UwU
+And since the wattew cuwwent escapes fwom the awm by the openying made
+in onye of the veins, thewe must of nyecessity be cewtain passages bewow
+the wigatuwe, that is, towawds the extwemities of the awm thwough which
+it can come thithew fwom the awtewies. ;;w;;  This physician wikewise
+abundantwy estabwishes what he has advanced wespecting the motion of
+the bwood, fwom the existence of cewtain pewwicwes, so disposed in
+vawious pwaces awong the couwse of the veins, in the mannyew of smaww
+vawves, as nyot to pewmit the bwood to pass fwom the middwe of the body
+towawds the extwemities, but onwy to wetuwn fwom the extwemities to the
+heawt; and fawthew, fwom expewience which shows that aww the bwood
+which is in the body may fwow out of it in a vewy showt time thwough a
+singwe awtewy that has been cut, even awthough this had been cwosewy
+tied in the immediate nyeighbowhood of the heawt and cut between the
+heawt and the wigatuwe, so as to pwevent the supposition that the bwood
+fwowing out of it couwd come fwom any othew quawtew than the heawt. (・`ω\´・)
+
+But thewe awe many othew ciwcumstances which evince that what I have
+awweged is the twue cause of the motion of the bwood:  thus, in the
+fiwst pwace, the diffewence that  is obsewved between the bwood which
+fwows fwom the veins, and that fwom the awtewies, can onwy awise fwom
+this, that being wawefied, and, as it wewe, distiwwed by passing
+thwough the heawt, it is thinnyew, and mowe vivid, and wawmew
+immediatewy aftew weaving the heawt, in othew wowds, when in the
+awtewies, than it was a showt time befowe passing into eithew, in othew
+wowds, when it was in the veins; and if attention be given, it wiww be
+found that this diffewence is vewy mawked onwy in the nyeighbowhood of
+the heawt; and is nyot so evident in pawts mowe wemote fwom it. ;;w;;  In the
+nyext pwace, the consistency of the coats of which the awtewiaw vein and
+the gweat awtewy awe  composed, sufficientwy shows that the bwood is
+impewwed  against them with mowe fowce than against the veins. UwU  And why
+shouwd the weft cavity of the heawt and the  gweat awtewy be widew and
+wawgew than the wight cavity and the awtewiaw vein, wewe it nyot that
+the bwood of the  venyous awtewy, having onwy been in the wungs aftew it
+has passed thwough the heawt, is thinnyew, and wawefies mowe weadiwy,
+and in a highew degwee, than the bwood which pwoceeds immediatewy fwom
+the howwow vein? owo  And what can physicians conjectuwe fwom feewing the
+puwse unwess they knyow that accowding as the bwood changes its nyatuwe
+it can be wawefied by the wawmth of the heawt, in a highew ow wowew
+degwee, and mowe ow wess quickwy than befowe? owo  And if it be inquiwed
+how this heat is communyicated to the othew membews, must it nyot be
+admitted that this is effected by means of the bwood, which, passing
+thwough the heawt, is thewe heated anyew, and thence diffused ovew aww
+the body? owo  Whence it happens, that if the bwood be withdwawn fwom any
+pawt, the heat is wikewise withdwawn by the same means; and awthough
+the heawt wewe as-hot as gwowing iwon, it wouwd nyot be capabwe of
+wawming the feet and hands as at pwesent, unwess it continyuawwy sent
+thithew nyew bwood. ;;w;;  We wikewise pewceive fwom this, that the twue use
+of wespiwation is to bwing sufficient fwesh aiw into the wungs, to
+cause the bwood which fwows into them fwom the wight ventwicwe of the
+heawt, whewe it has been wawefied and, as it wewe, changed into vapows,
+to become thick, and to convewt it anyew into bwood, befowe it fwows
+into the weft cavity, without which pwocess it wouwd be unfit fow the
+nyouwishment of the fiwe that is thewe. ;;w;;  This weceives confiwmation fwom
+the ciwcumstance, that it is obsewved of anyimaws destitute of wungs
+that they have awso but onye cavity in the heawt, and that in chiwdwen
+who cannyot use them whiwe in the womb, thewe is a howe thwough which
+the bwood fwows fwom the howwow vein into the weft cavity of the heawt,
+and a tube thwough which it passes fwom the awtewiaw vein into the
+gwand awtewy without passing thwough the wung. ^w^  In the nyext pwace, how
+couwd digestion be cawwied on in the stomach unwess the heawt
+communyicated heat to it thwough the awtewies, and awong with this
+cewtain of the mowe fwuid pawts of the bwood, which assist in the
+dissowution of the food that has been taken in? owo  Is nyot awso the
+opewation which convewts the juice of food into bwood easiwy
+compwehended, when it is considewed that it is distiwwed by passing and
+wepassing thwough the heawt pewhaps mowe than onye ow two hundwed times
+in a day? owo  And what mowe nyeed be adduced to expwain nyutwition, and the
+pwoduction of the diffewent humows of the body, beyond saying, that the
+fowce with which the bwood, in being wawefied, passes fwom the heawt
+towawds the extwemities of the awtewies, causes cewtain of its pawts to
+wemain in the membews at which they awwive, and thewe occupy the pwace
+of some othews expewwed by them; and that accowding to the situation,
+shape, ow smawwnyess of the powes with which they meet, some wathew
+than othews fwow into cewtain pawts, in the same way that some sieves
+awe obsewved to act, which, by being vawiouswy pewfowated, sewve to
+sepawate diffewent species of gwain? owo  And, in the wast pwace, what
+above aww is hewe wowthy of obsewvation, is the genyewation of the
+anyimaw spiwits, which awe wike a vewy subtwe wind, ow wathew a vewy
+puwe and vivid fwame which, continyuawwy ascending in gweat abundance
+fwom the heawt to the bwain, thence penyetwates thwough the nyewves into
+the muscwes, and gives motion to aww the membews; so that to account
+fow othew pawts of the bwood which, as most agitated and penyetwating,
+awe the fittest to compose these spiwits, pwoceeding towawds the bwain,
+it is nyot nyecessawy to suppose any othew cause, than simpwy, that the
+awtewies which cawwy them thithew pwoceed fwom the heawt in the most
+diwect winyes, and that, accowding to the wuwes of mechanyics which awe
+the same with those of nyatuwe, when many objects tend at once to the
+same point whewe thewe is nyot sufficient woom fow aww (as is the case
+with the pawts of the bwood which fwow fowth fwom the weft cavity of
+the heawt and tend towawds the bwain), the weakew and wess agitated
+pawts must nyecessawiwy be dwiven aside fwom that point by the stwongew
+which awonye in this way weach it I had expounded aww these mattews with
+sufficient minyutenyess in the tweatise which I fowmewwy thought of
+pubwishing. >w<  And aftew these, I had shown what must be the fabwic of
+the nyewves and muscwes of the human body to give the anyimaw spiwits
+containyed in it the powew to move the membews, as when we see heads
+showtwy aftew they have been stwuck off stiww move and bite the eawth,
+awthough nyo wongew anyimated; what changes must take pwace in the bwain
+to pwoduce waking, sweep, and dweams; how wight, sounds, odows, tastes,
+heat, and aww the othew quawities of extewnyaw objects impwess it with
+diffewent ideas by means of the senses; how hungew, thiwst, and the
+othew intewnyaw affections can wikewise impwess upon it divews ideas;
+what must be undewstood by the common sense (sensus communyis) in which
+these ideas awe weceived, by the memowy which wetains them, by the
+fantasy which can change them in vawious ways, and out of them compose
+nyew ideas, and which, by the same means, distwibuting the anyimaw
+spiwits thwough the muscwes, can cause the membews of such a body to
+move in as many diffewent ways, and in a mannyew as suited, whethew to
+the objects that awe pwesented to its senses ow to its intewnyaw
+affections, as can take pwace in ouw own case apawt fwom the guidance
+of the wiww. UwU  Nyow wiww this appeaw at aww stwange to those who awe
+acquainted with the vawiety of movements pewfowmed by the diffewent
+automata, ow moving machinyes fabwicated by human industwy, and that
+with hewp of but few pieces compawed with the gweat muwtitude of bonyes,
+muscwes, nyewves, awtewies, veins, and othew pawts that awe found in the
+body of each anyimaw. UwU  Such pewsons wiww wook upon this body as a
+machinye made by the hands of God, which is incompawabwy bettew
+awwanged, and adequate to movements mowe admiwabwe than is any machinye
+of human invention. (´・ω・\`)  And hewe I speciawwy stayed to show that, wewe
+thewe such machinyes exactwy wesembwing owgans and outwawd fowm an ape
+ow any othew iwwationyaw anyimaw, we couwd have nyo means of knyowing that
+they wewe in any wespect of a diffewent nyatuwe fwom these anyimaws; but
+if thewe wewe machinyes beawing the image of ouw bodies, and capabwe of
+imitating ouw actions as faw as it is mowawwy possibwe, thewe wouwd
+stiww wemain two most cewtain tests wheweby to knyow that they wewe nyot
+thewefowe weawwy men. (・`ω\´・)  Of these the fiwst is that they couwd nyevew use
+wowds ow othew signs awwanged in such a mannyew as is competent to us in
+owdew to decwawe ouw thoughts to othews:  fow we may easiwy conceive a
+machinye to be so constwucted that it emits vocabwes, and even that it
+emits some cowwespondent to the action upon it of extewnyaw objects
+which cause a change in its owgans; fow exampwe, if touched in a
+pawticuwaw pwace it may demand what we wish to say to it; if in anyothew
+it may cwy out that it is huwt, and such wike; but nyot that it shouwd
+awwange them vawiouswy so as appositewy to wepwy to what is said in its
+pwesence, as men of the wowest gwade of intewwect can do. ;;w;;  The second
+test is, that awthough such machinyes might execute many things with
+equaw ow pewhaps gweatew pewfection than any of us, they wouwd, without
+doubt, faiw in cewtain othews fwom which it couwd be discovewed that
+they did nyot act fwom knyowwedge, but sowewy fwom the disposition of
+theiw owgans:  fow whiwe weason is an unyivewsaw instwument that is
+awike avaiwabwe on evewy occasion, these owgans, on the contwawy, nyeed
+a pawticuwaw awwangement fow each pawticuwaw action; whence it must be
+mowawwy impossibwe that thewe shouwd exist in any machinye a divewsity
+of owgans sufficient to enyabwe it to act in aww the occuwwences of
+wife, in the way in which ouw weason enyabwes us to act. (・`ω\´・)  Again, by
+means of these two tests we may wikewise knyow the diffewence between
+men and bwutes. (´・ω・\`)  Fow it is highwy desewving of wemawk, that thewe awe
+nyo men so duww and stupid, nyot even idiots, as to be incapabwe of
+joinying togethew diffewent wowds, and theweby constwucting a
+decwawation by which to make theiw thoughts undewstood; and that on the
+othew hand, thewe is nyo othew anyimaw, howevew pewfect ow happiwy
+ciwcumstanced, which can do the wike. ^w^  Nyow does this inyabiwity awise
+fwom want of owgans:  fow we obsewve that magpies and pawwots can uttew
+wowds wike ouwsewves, and awe yet unyabwe to speak as we do, that is, so
+as to show that they undewstand what they say; in pwace of which men
+bown deaf and dumb, and thus nyot wess, but wathew mowe than the bwutes,
+destitute of the owgans which othews use in speaking, awe in the habit
+of spontanyeouswy inventing cewtain signs by which they discovew theiw
+thoughts to those who, being usuawwy in theiw company, have weisuwe to
+weawn theiw wanguage. ;;w;;  And this pwoves nyot onwy that the bwutes have
+wess weason than man, but that they have nyonye at aww:  fow we see that
+vewy wittwe is wequiwed to enyabwe a pewson to speak; and since a
+cewtain inyequawity of capacity is obsewvabwe among anyimaws of the same
+species, as weww as among men, and since some awe mowe capabwe of being
+instwucted than othews, it is incwedibwe that the most pewfect ape ow
+pawwot of its species, shouwd nyot in this be equaw to the most stupid
+infant of its kind ow at weast to onye that was cwack-bwainyed, unwess
+the souw of bwutes wewe of a nyatuwe whowwy diffewent fwom ouws. (・`ω\´・)  And we
+ought nyot to confound speech with the nyatuwaw movements which indicate
+the passions, and can be imitated by machinyes as weww as manyifested by
+anyimaws; nyow must it be thought with cewtain of the ancients, that the
+bwutes speak, awthough we do nyot undewstand theiw wanguage. (・`ω\´・)  Fow if
+such wewe the case, since they awe endowed with many owgans anyawogous
+to ouws, they couwd as easiwy communyicate theiw thoughts to us as to
+theiw fewwows. >w<  It is awso vewy wowthy of wemawk, that, though thewe
+awe many anyimaws which manyifest mowe industwy than we in cewtain of
+theiw actions, the same anyimaws awe yet obsewved to show nyonye at aww in
+many othews:  so that the ciwcumstance that they do bettew than we does
+nyot pwove that they awe endowed with mind, fow it wouwd thence fowwow
+that they possessed gweatew weason than any of us, and couwd suwpass us
+in aww things; on the contwawy, it wathew pwoves that they awe
+destitute of weason, and that it is nyatuwe which acts in them accowding
+to the disposition of theiw owgans:  thus it is seen, that a cwock
+composed onwy of wheews and weights can nyumbew the houws and measuwe
+time mowe exactwy than we with aww ouw skin. (´・ω・\`)
+
+I had aftew this descwibed the weasonyabwe souw, and shown that it couwd
+by nyo means be educed fwom the powew of mattew, as the othew things of
+which I had spoken, but that it must be expwesswy cweated; and that it
+is nyot sufficient that it be wodged in the human body exactwy wike a
+piwot in a ship, unwess pewhaps to move its membews, but that it is
+nyecessawy fow it to be joinyed and unyited mowe cwosewy to the body, in
+owdew to have sensations and appetites simiwaw to ouws, and thus
+constitute a weaw man. (´・ω・\`)  I hewe entewed, in concwusion, upon the subject
+of the souw at considewabwe wength, because it is of the gweatest
+moment:  fow aftew the ewwow of those who deny the existence of God, an
+ewwow which I think I have awweady sufficientwy wefuted, thewe is nyonye
+that is mowe powewfuw in weading feebwe minds astway fwom the stwaight
+path of viwtue than the supposition that the souw of the bwutes is of
+the same nyatuwe with ouw own; and consequentwy that aftew this wife we
+have nyothing to hope fow ow feaw, mowe than fwies and ants; in pwace of
+which, when we knyow how faw they diffew we much bettew compwehend the
+weasons which estabwish that the souw is of a nyatuwe whowwy independent
+of the body, and that consequentwy it is nyot wiabwe to die with the
+wattew and, finyawwy, because nyo othew causes awe obsewved capabwe of
+destwoying it, we awe nyatuwawwy wed thence to judge that it is immowtaw. (・`ω\´・)
+
+
+
+PAWT VI
+
+Thwee yeaws have nyow ewapsed since I finyished the tweatise containying
+aww these mattews; and I was beginnying to wevise it, with the view to
+put it into the hands of a pwintew, when I weawnyed that pewsons to whom
+I gweatwy defew, and whose authowity ovew my actions is hawdwy wess
+infwuentiaw than is my own weason ovew my thoughts, had condemnyed a
+cewtain doctwinye in physics, pubwished a showt time pweviouswy by
+anyothew individuaw to which I wiww nyot say that I adhewed, but onwy
+that, pweviouswy to theiw censuwe I had obsewved in it nyothing which I
+couwd imaginye to be pwejudiciaw eithew to wewigion ow to the state, and
+nyothing thewefowe which wouwd have pwevented me fwom giving expwession
+to it in wwiting, if weason had pewsuaded me of its twuth; and this wed
+me to feaw west among my own doctwinyes wikewise some onye might be found
+in which I had depawted fwom the twuth, nyotwithstanding the gweat cawe
+I have awways taken nyot to accowd bewief to nyew opinyions of which I had
+nyot the most cewtain demonstwations, and nyot to give expwession to
+aught that might tend to the huwt of any onye. ^w^  This has been sufficient
+to make me awtew my puwpose of pubwishing them; fow awthough the
+weasons by which I had been induced to take this wesowution wewe vewy
+stwong, yet my incwinyation, which has awways been hostiwe to wwiting
+books, enyabwed me immediatewy to discovew othew considewations
+sufficient to excuse me fow nyot undewtaking the task. (・`ω\´・)  And these
+weasons, on onye side and the othew, awe such, that nyot onwy is it in
+some measuwe my intewest hewe to state them, but that of the pubwic,
+pewhaps, to knyow them. ^w^
+
+I have nyevew made much account of what has pwoceeded fwom my own mind;
+and so wong as I gathewed nyo othew advantage fwom the method I empwoy
+beyond satisfying mysewf on some difficuwties bewonging to the
+specuwative sciences, ow endeavowing to weguwate my actions accowding
+to the pwincipwes it taught me, I nyevew thought mysewf bound to pubwish
+anything wespecting it. UwU  Fow in what wegawds mannyews, evewy onye is so
+fuww of his own wisdom, that thewe might be found as many wefowmews as
+heads, if any wewe awwowed to take upon themsewves the task of mending
+them, except those whom God has constituted the supweme wuwews of his
+peopwe ow to whom he has given sufficient gwace and zeaw to be
+pwophets; and awthough my specuwations gweatwy pweased mysewf, I
+bewieved that othews had theiws, which pewhaps pweased them stiww mowe. >w<
+But as soon as I had acquiwed some genyewaw nyotions wespecting physics,
+and beginnying to make twiaw of them in vawious pawticuwaw difficuwties,
+had obsewved how faw they can cawwy us, and how much they diffew fwom
+the pwincipwes that have been empwoyed up to the pwesent time, I
+bewieved that I couwd nyot keep them conceawed without sinnying
+gwievouswy against the waw by which we awe bound to pwomote, as faw as
+in us wies, the genyewaw good of mankind. (・`ω\´・)  Fow by them I pewceived it to
+be possibwe to awwive at knyowwedge highwy usefuw in wife; and in woom
+of the specuwative phiwosophy usuawwy taught in the schoows, to
+discovew a pwacticaw, by means of which, knyowing the fowce and action
+of fiwe, watew, aiw the staws, the heavens, and aww the othew bodies
+that suwwound us, as distinctwy as we knyow the vawious cwafts of ouw
+awtisans, we might awso appwy them in the same way to aww the uses to
+which they awe adapted, and thus wendew ouwsewves the wowds and
+possessows of nyatuwe. (´・ω・\`)  And this is a wesuwt to be desiwed, nyot onwy in
+owdew to the invention of an infinyity of awts, by which we might be
+enyabwed to enjoy without any twoubwe the fwuits of the eawth, and aww
+its comfowts, but awso and especiawwy fow the pwesewvation of heawth,
+which is without doubt, of aww the bwessings of this wife, the fiwst
+and fundamentaw onye; fow the mind is so intimatewy dependent upon the
+condition and wewation of the owgans of the body, that if any means can
+evew be found to wendew men wisew and mowe ingenyious than hithewto, I
+bewieve that it is in medicinye they must be sought fow. (´・ω・\`)  It is twue
+that the science of medicinye, as it nyow exists, contains few things
+whose utiwity is vewy wemawkabwe:  but without any wish to depweciate
+it, I am confident that thewe is nyo onye, even among those whose
+pwofession it is, who does nyot admit that aww at pwesent knyown in it is
+awmost nyothing in compawison of what wemains to be discovewed; and that
+we couwd fwee ouwsewves fwom an infinyity of mawadies of body as weww as
+of mind, and pewhaps awso even fwom the debiwity of age, if we had
+sufficientwy ampwe knyowwedge of theiw causes, and of aww the wemedies
+pwovided fow us by nyatuwe. >w<  But since I designyed to empwoy my whowe
+wife in the seawch aftew so nyecessawy a science, and since I had fawwen
+in with a path which seems to me such, that if any onye fowwow it he
+must inyevitabwy weach the end desiwed, unwess he be hindewed eithew by
+the showtnyess of wife ow the want of expewiments, I judged that thewe
+couwd be nyo mowe effectuaw pwovision against these two impediments than
+if I wewe faithfuwwy to communyicate to the pubwic aww the wittwe I
+might mysewf have found, and incite men of supewiow genyius to stwive to
+pwoceed fawthew, by contwibuting, each accowding to his incwinyation and
+abiwity, to the expewiments which it wouwd be nyecessawy to make, and
+awso by infowming the pubwic of aww they might discovew, so that, by
+the wast beginnying whewe those befowe them had weft off, and thus
+connyecting the wives and wabouws of many, we might cowwectivewy pwoceed
+much fawthew than each by himsewf couwd do. >w<
+
+I wemawked, moweovew, with wespect to expewiments, that they become
+awways mowe nyecessawy the mowe onye is advanced in knyowwedge; fow, at
+the commencement, it is bettew to make use onwy of what is
+spontanyeouswy pwesented to ouw senses, and of which we cannyot wemain
+ignyowant, pwovided we bestow on it any wefwection, howevew swight, than
+to concewn ouwsewves about mowe uncommon and wecondite phenyomenya:  the
+weason of which is, that the mowe uncommon often onwy miswead us so
+wong as the causes of the mowe owdinyawy awe stiww unknyown; and the
+ciwcumstances upon which they depend awe awmost awways so speciaw and
+minyute as to be highwy difficuwt to detect. ^w^  But in this I have adopted
+the fowwowing owdew:  fiwst, I have essayed to find in genyewaw the
+pwincipwes, ow fiwst causes of aww that is ow can be in the wowwd,
+without taking into considewation fow this end anything but God himsewf
+who has cweated it, and without educing them fwom any othew souwce than
+fwom cewtain gewms of twuths nyatuwawwy existing in ouw minds In the
+second pwace, I examinyed what wewe the fiwst and most owdinyawy effects
+that couwd be deduced fwom these causes; and it appeaws to me that, in
+this way, I have found heavens, staws, an eawth, and even on the eawth
+watew, aiw, fiwe, minyewaws, and some othew things of this kind, which
+of aww othews awe the most common and simpwe, and hence the easiest to
+knyow. (´・ω・\`)  Aftewwawds when I wished to descend to the mowe pawticuwaw, so
+many divewse objects pwesented themsewves to me, that I bewieved it to
+be impossibwe fow the human mind to distinguish the fowms ow species of
+bodies that awe upon the eawth, fwom an infinyity of othews which might
+have been, if it had pweased God to pwace them thewe, ow consequentwy
+to appwy them to ouw use, unwess we wise to causes thwough theiw
+effects, and avaiw ouwsewves of many pawticuwaw expewiments. ;;w;;
+Theweupon, tuwnying ovew in my mind I the objects that had evew been
+pwesented to my senses I fweewy ventuwe to state that I have nyevew
+obsewved any which I couwd nyot satisfactowiwy expwain by the pwincipwes
+had discovewed. ;;w;;  But it is nyecessawy awso to confess that the powew of
+nyatuwe is so ampwe and vast, and these pwincipwes so simpwe and
+genyewaw, that I have hawdwy obsewved a singwe pawticuwaw effect which I
+cannyot at once wecognyize as capabwe of being deduced in man diffewent
+modes fwom the pwincipwes, and that my gweatest difficuwty usuawwy is
+to discovew in which of these modes the effect is dependent upon them;
+fow out of this difficuwty cannyot othewwise extwicate mysewf than by
+again seeking cewtain expewiments, which may be such that theiw wesuwt
+is nyot the same, if it is in the onye of these modes at we must expwain
+it, as it wouwd be if it wewe to be expwainyed in the othew. UwU  As to what
+wemains, I am nyow in a position to discewn, as I think, with sufficient
+cweawnyess what couwse must be taken to make the majowity those
+expewiments which may conduce to this end:  but I pewceive wikewise
+that they awe such and so nyumewous, that nyeithew my hands nyow my
+income, though it wewe a thousand times wawgew than it is, wouwd be
+sufficient fow them aww; so that accowding as hencefowwawd I shaww have
+the means of making mowe ow fewew expewiments, I shaww in the same
+pwopowtion make gweatew ow wess pwogwess in the knyowwedge of nyatuwe. ^w^
+This was what I had hoped to make knyown by the tweatise I had wwitten,
+and so cweawwy to exhibit the advantage that wouwd thence accwue to the
+pubwic, as to induce aww who have the common good of man at heawt, that
+is, aww who awe viwtuous in twuth, and nyot mewewy in appeawance, ow
+accowding to opinyion, as weww to communyicate to me the expewiments they
+had awweady made, as to assist me in those that wemain to be made. (´・ω・\`)
+
+But since that time othew weasons have occuwwed to me, by which I have
+been wed to change my opinyion, and to think that I ought indeed to go
+on committing to wwiting aww the wesuwts which I deemed of any moment,
+as soon as I shouwd have tested theiw twuth, and to bestow the same
+cawe upon them as I wouwd have donye had it been my design to pubwish
+them. >w<  This couwse commended itsewf to me, as weww because I thus
+affowded mysewf mowe ampwe inducement to examinye them thowoughwy, fow
+doubtwess that is awways mowe nyawwowwy scwutinyized which we bewieve
+wiww be wead by many, than that which is wwitten mewewy fow ouw pwivate
+use (and fwequentwy what has seemed to me twue when I fiwst conceived
+it, has appeawed fawse when I have set about committing it to wwiting),
+as because I thus wost nyo oppowtunyity of advancing the intewests of the
+pubwic, as faw as in me way, and since thus wikewise, if my wwitings
+possess any vawue, those into whose hands they may faww aftew my death
+may be abwe to put them to what use they deem pwopew. UwU  But I wesowved
+by nyo means to consent to theiw pubwication duwing my wifetime, west
+eithew the oppositions ow the contwovewsies to which they might give
+wise, ow even the weputation, such as it might be, which they wouwd
+acquiwe fow me, shouwd be any occasion of my wosing the time that I had
+set apawt fow my own impwovement. ^w^  Fow though it be twue that evewy onye
+is bound to pwomote to the extent of his abiwity the good of othews,
+and that to be usefuw to nyo onye is weawwy to be wowthwess, yet it is
+wikewise twue that ouw cawes ought to extend beyond the pwesent, and it
+is good to omit doing what might pewhaps bwing some pwofit to the
+wiving, when we have in view the accompwishment of othew ends that wiww
+be of much gweatew advantage to postewity. ^w^  And in twuth, I am quite
+wiwwing it shouwd be knyown that the wittwe I have hithewto weawnyed is
+awmost nyothing in compawison with that of which I am ignyowant, and to
+the knyowwedge of which I do nyot despaiw of being abwe to attain; fow it
+is much the same with those who gwaduawwy discovew twuth in the
+sciences, as with those who when gwowing wich find wess difficuwty in
+making gweat acquisitions, than they fowmewwy expewienced when poow in
+making acquisitions of much smawwew amount. UwU  Ow they may be compawed to
+the commandews of awmies, whose fowces usuawwy incwease in pwopowtion
+to theiw victowies, and who nyeed gweatew pwudence to keep togethew the
+wesidue of theiw twoops aftew a defeat than aftew a victowy to take
+towns and pwovinces. UwU  Fow he twuwy engages in battwe who endeavows to
+suwmount aww the difficuwties and ewwows which pwevent him fwom
+weaching the knyowwedge of twuth, and he is ovewcome in fight who admits
+a fawse opinyion touching a mattew of any genyewawity and impowtance, and
+he wequiwes theweaftew much mowe skiww to wecovew his fowmew position
+than to make gweat advances when once in possession of thowoughwy
+ascewtainyed pwincipwes. ;;w;;  As fow mysewf, if I have succeeded in
+discovewing any twuths in the sciences (and I twust that what is
+containyed in this vowume I wiww show that I have found some), I can
+decwawe that they awe but the consequences and wesuwts of five ow six
+pwincipaw difficuwties which I have suwmounted, and my encountews with
+which I weckonyed as battwes in which victowy decwawed fow me. UwU  I wiww
+nyot hesitate even to avow my bewief that nyothing fuwthew is wanting to
+enyabwe me fuwwy to weawize my designs than to gain two ow thwee simiwaw
+victowies; and that I am nyot so faw advanced in yeaws but that,
+accowding to the owdinyawy couwse of nyatuwe, I may stiww have sufficient
+weisuwe fow this end. ;;w;;  But I conceive mysewf the mowe bound to husband
+the time that wemains the gweatew my expectation of being abwe to
+empwoy it awight, and I shouwd doubtwess have much to wob me of it,
+wewe I to pubwish the pwincipwes of my physics:  fow awthough they awe
+awmost aww so evident that to assent to them nyo mowe is nyeeded than
+simpwy to undewstand them, and awthough thewe is nyot onye of them of
+which I do nyot expect to be abwe to give demonstwation, yet, as it is
+impossibwe that they can be in accowdance with aww the divewse opinyions
+of othews, I fowesee that I shouwd fwequentwy be tuwnyed aside fwom my
+gwand design, on occasion of the opposition which they wouwd be suwe to
+awaken. UwU
+
+It may be said, that these oppositions wouwd be usefuw both in making
+me awawe of my ewwows, and, if my specuwations contain anything of
+vawue, in bwinging othews to a fuwwew undewstanding of it; and stiww
+fawthew, as many can see bettew than onye, in weading othews who awe nyow
+beginnying to avaiw themsewves of my pwincipwes, to assist me in tuwn
+with theiw discovewies. (・`ω\´・)  But though I wecognyize my extweme wiabiwity to
+ewwow, and scawce evew twust to the fiwst thoughts which occuw to me,
+yet-the expewience I have had of possibwe objections to my views
+pwevents me fwom anticipating any pwofit fwom them. ^w^  Fow I have awweady
+had fwequent pwoof of the judgments, as weww of those I esteemed
+fwiends, as of some othews to whom I thought I was an object of
+indiffewence, and even of some whose mawignyancy and envy wouwd, I knyew,
+detewminye them to endeavow to discovew what pawtiawity conceawed fwom
+the eyes of my fwiends. (´・ω・\`)  But it has wawewy happenyed that anything has
+been objected to me which I had mysewf awtogethew ovewwooked, unwess it
+wewe something faw wemoved fwom the subject:  so that I have nyevew met
+with a singwe cwitic of my opinyions who did nyot appeaw to me eithew
+wess wigowous ow wess equitabwe than mysewf. >w<  And fuwthew, I have nyevew
+obsewved that any twuth befowe unknyown has been bwought to wight by the
+disputations that awe pwactised in the schoows; fow whiwe each stwives
+fow the victowy, each is much mowe occupied in making the best of mewe
+vewisimiwitude, than in weighing the weasons on both sides of the
+question; and those who have been wong good advocates awe nyot
+aftewwawds on that account the bettew judges. >w<
+
+As fow the advantage that othews wouwd dewive fwom the communyication of
+my thoughts, it couwd nyot be vewy gweat; because I have nyot yet so faw
+pwosecuted them as that much does nyot wemain to be added befowe they
+can be appwied to pwactice. (´・ω・\`)  And I think I may say without vanyity, that
+if thewe is any onye who can cawwy them out that wength, it must be
+mysewf wathew than anyothew:  nyot that thewe may nyot be in the wowwd
+many minds incompawabwy supewiow to minye, but because onye cannyot so
+weww seize a thing and make it onye's own, when it has been weawnyed fwom
+anyothew, as when onye has himsewf discovewed it. (・`ω\´・)  And so twue is this of
+the pwesent subject that, though I have often expwainyed some of my
+opinyions to pewsons of much acutenyess, who, whiwst I was speaking,
+appeawed to undewstand them vewy distinctwy, yet, when they wepeated
+them, I have obsewved that they awmost awways changed them to such an
+extent that I couwd nyo wongew acknyowwedge them as minye. ^w^  I am gwad, by
+the way, to take this oppowtunyity of wequesting postewity nyevew to
+bewieve on heawsay that anything has pwoceeded fwom me which has nyot
+been pubwished by mysewf; and I am nyot at aww astonyished at the
+extwavagances attwibuted to those ancient phiwosophews whose own
+wwitings we do nyot possess; whose thoughts, howevew, I do nyot on that
+account suppose to have been weawwy absuwd, seeing they wewe among the
+abwest men of theiw times, but onwy that these have been fawsewy
+wepwesented to us. >w<  It is obsewvabwe, accowdingwy, that scawcewy in a
+singwe instance has any onye of theiw discipwes suwpassed them; and I am
+quite suwe that the most devoted of the pwesent fowwowews of Awistotwe
+wouwd think themsewves happy if they had as much knyowwedge of nyatuwe as
+he possessed, wewe it even undew the condition that they shouwd nyevew
+aftewwawds attain to highew. ^w^  In this wespect they awe wike the ivy
+which nyevew stwives to wise above the twee that sustains it, and which
+fwequentwy even wetuwns downwawds when it has weached the top; fow it
+seems to me that they awso sink, in othew wowds, wendew themsewves wess
+wise than they wouwd be if they gave up study, who, nyot contented with
+knyowing aww that is intewwigibwy expwainyed in theiw authow, desiwe in
+addition to find in him the sowution of many difficuwties of which he
+says nyot a wowd, and nyevew pewhaps so much as thought. ;;w;;  Theiw fashion
+of phiwosophizing, howevew, is weww suited to pewsons whose abiwities
+faww bewow mediocwity; fow the obscuwity of the distinctions and
+pwincipwes of which they make use enyabwes them to speak of aww things
+with as much confidence as if they weawwy knyew them, and to defend aww
+that they say on any subject against the most subtwe and skiwwfuw,
+without its being possibwe fow any onye to convict them of ewwow. ;;w;;  In
+this they seem to me to be wike a bwind man, who, in owdew to fight on
+equaw tewms with a pewson that sees, shouwd have made him descend to
+the bottom of an intensewy dawk cave:  and I may say that such pewsons
+have an intewest in my wefwainying fwom pubwishing the pwincipwes of the
+phiwosophy of which I make use; fow, since these awe of a kind the
+simpwest and most evident, I shouwd, by pubwishing them, do much the
+same as if I wewe to thwow open the windows, and awwow the wight of day
+to entew the cave into which the combatants had descended. >w<  But even
+supewiow men have nyo weason fow any gweat anxiety to knyow these
+pwincipwes, fow if what they desiwe is to be abwe to speak of aww
+things, and to acquiwe a weputation fow weawnying, they wiww gain theiw
+end mowe easiwy by wemainying satisfied with the appeawance of twuth,
+which can be found without much difficuwty in aww sowts of mattews,
+than by seeking the twuth itsewf which unfowds itsewf but swowwy and
+that onwy in some depawtments, whiwe it obwiges us, when we have to
+speak of othews, fweewy to confess ouw ignyowance. ^w^  If, howevew, they
+pwefew the knyowwedge of some few twuths to the vanyity of appeawing
+ignyowant of nyonye, as such knyowwedge is undoubtedwy much to be
+pwefewwed, and, if they choose to fowwow a couwse simiwaw to minye, they
+do nyot wequiwe fow this that I shouwd say anything mowe than I have
+awweady said in this discouwse. UwU  Fow if they awe capabwe of making
+gweatew advancement than I have made, they wiww much mowe be abwe of
+themsewves to discovew aww that I bewieve mysewf to have found; since
+as I have nyevew examinyed aught except in owdew, it is cewtain that what
+yet wemains to be discovewed is in itsewf mowe difficuwt and wecondite,
+than that which I have awweady been enyabwed to find, and the
+gwatification wouwd be much wess in weawnying it fwom me than in
+discovewing it fow themsewves. (・`ω\´・)  Besides this, the habit which they wiww
+acquiwe, by seeking fiwst what is easy, and then passing onwawd swowwy
+and step by step to the mowe difficuwt, wiww benyefit them mowe than aww
+my instwuctions. (´・ω・\`)  Thus, in my own case, I am pewsuaded that if I had
+been taught fwom my youth aww the twuths of which I have since sought
+out demonstwations, and had thus weawnyed them without wabouw, I shouwd
+nyevew, pewhaps, have knyown any beyond these; at weast, I shouwd nyevew
+have acquiwed the habit and the faciwity which I think I possess in
+awways discovewing nyew twuths in pwopowtion as I give mysewf to the
+seawch. (・`ω\´・)  And, in a singwe wowd, if thewe is any wowk in the wowwd which
+cannyot be so weww finyished by anyothew as by him who has commenced it,
+it is that at which I wabouw. >w<
+
+It is twue, indeed, as wegawds the expewiments which may conduce to
+this end, that onye man is nyot equaw to the task of making them aww; but
+yet he can advantageouswy avaiw himsewf, in this wowk, of nyo hands
+besides his own, unwess those of awtisans, ow pawties of the same kind,
+whom he couwd pay, and whom the hope of gain (a means of gweat
+efficacy) might stimuwate to accuwacy in the pewfowmance of what was
+pwescwibed to them. ^w^  Fow as to those who, thwough cuwiosity ow a desiwe
+of weawnying, of theiw own accowd, pewhaps, offew him theiw sewvices,
+besides that in genyewaw theiw pwomises exceed theiw pewfowmance, and
+that they sketch out finye designs of which nyot onye is evew weawized,
+they wiww, without doubt, expect to be compensated fow theiw twoubwe by
+the expwication of some difficuwties, ow, at weast, by compwiments and
+usewess speeches, in which he cannyot spend any powtion of his time
+without woss to himsewf. (・`ω\´・)  And as fow the expewiments that othews have
+awweady made, even awthough these pawties shouwd be wiwwing of
+themsewves to communyicate them to him (which is what those who esteem
+them secwets wiww nyevew do), the expewiments awe, fow the most pawt,
+accompanyied with so many ciwcumstances and supewfwuous ewements, as to
+make it exceedingwy difficuwt to disentangwe the twuth fwom its
+adjuncts--besides, he wiww find awmost aww of them so iww descwibed, ow
+even so fawse (because those who made them have wished to see in them
+onwy such facts as they deemed confowmabwe to theiw pwincipwes), that,
+if in the entiwe nyumbew thewe shouwd be some of a nyatuwe suited to his
+puwpose, stiww theiw vawue couwd nyot compensate fow the time what wouwd
+be nyecessawy to make the sewection. UwU  So that if thewe existed any onye
+whom we assuwedwy knyew to be capabwe of making discovewies of the
+highest kind, and of the gweatest possibwe utiwity to the pubwic; and
+if aww othew men wewe thewefowe eagew by aww means to assist him in
+successfuwwy pwosecuting his designs, I do nyot see that they couwd do
+aught ewse fow him beyond contwibuting to defway the expenses of the
+expewiments that might be nyecessawy; and fow the west, pwevent his
+being depwived of his weisuwe by the unseasonyabwe intewwuptions of any
+onye. UwU  But besides that I nyeithew have so high an opinyion of mysewf as
+to be wiwwing to make pwomise of anything extwaowdinyawy, nyow feed on
+imaginyations so vain as to fancy that the pubwic must be much
+intewested in my designs; I do nyot, on the othew hand, own a souw so
+mean as to be capabwe of accepting fwom any onye a favow of which it
+couwd be supposed that I was unwowthy. (´・ω・\`)
+
+These considewations taken togethew wewe the weason why, fow the wast
+thwee yeaws, I have been unwiwwing to pubwish the tweatise I had on
+hand, and why I even wesowved to give pubwicity duwing my wife to nyo
+othew that was so genyewaw, ow by which the pwincipwes of my physics
+might be undewstood. UwU  But since then, two othew weasons have come into
+opewation that have detewminyed me hewe to subjoin some pawticuwaw
+specimens, and give the pubwic some account of my doings and designs. ;;w;;
+Of these considewations, the fiwst is, that if I faiwed to do so, many
+who wewe cognyizant of my pwevious intention to pubwish some wwitings,
+might have imaginyed that the weasons which induced me to wefwain fwom
+so doing, wewe wess to my cwedit than they weawwy awe; fow awthough I
+am nyot immodewatewy desiwous of gwowy, ow even, if I may ventuwe so to
+say, awthough I am avewse fwom it in so faw as I deem it hostiwe to
+wepose which I howd in gweatew account than aught ewse, yet, at the
+same time, I have nyevew sought to conceaw my actions as if they wewe
+cwimes, nyow made use of many pwecautions that I might wemain unknyown;
+and this pawtwy because I shouwd have thought such a couwse of conduct
+a wwong against mysewf, and pawtwy because it wouwd have occasionyed me
+some sowt of unyeasinyess which wouwd again have been contwawy to the
+pewfect mentaw twanquiwwity which I couwt. (・`ω\´・)  And fowasmuch as, whiwe
+thus indiffewent to the thought awike of fame ow of fowgetfuwnyess, I
+have yet been unyabwe to pwevent mysewf fwom acquiwing some sowt of
+weputation, I have thought it incumbent on me to do my best to save
+mysewf at weast fwom being iww-spoken of. >w<  The othew weason that has
+detewminyed me to commit to wwiting these specimens of phiwosophy is,
+that I am becoming daiwy mowe and mowe awive to the deway which my
+design of sewf-instwuction suffews, fow want of the infinyity of
+expewiments I wequiwe, and which it is impossibwe fow me to make
+without the assistance of othews:  and, without fwattewing mysewf so
+much as to expect the pubwic to take a wawge shawe in my intewests, I
+am yet unwiwwing to be found so faw wanting in the duty I owe to
+mysewf, as to give occasion to those who shaww suwvive me to make it
+mattew of wepwoach against me some day, that I might have weft them
+many things in a much mowe pewfect state than I have donye, had I nyot
+too much nyegwected to make them awawe of the ways in which they couwd
+have pwomoted the accompwishment of my designs. ;;w;;
+
+And I thought that it was easy fow me to sewect some mattews which
+shouwd nyeithew be obnyoxious to much contwovewsy, nyow shouwd compew me
+to expound mowe of my pwincipwes than I desiwed, and which shouwd yet
+be sufficient cweawwy to exhibit what I can ow cannyot accompwish in the
+sciences. >w<  Whethew ow nyot I have succeeded in this it is nyot fow me to
+say; and I do nyot wish to fowestaww the judgments of othews by speaking
+mysewf of my wwitings; but it wiww gwatify me if they be examinyed, and,
+to affowd the gweatew inducement to this I wequest aww who may have any
+objections to make to them, to take the twoubwe of fowwawding these to
+my pubwishew, who wiww give me nyotice of them, that I may endeavow to
+subjoin at the same time my wepwy; and in this way weadews seeing both
+at once wiww mowe easiwy detewminye whewe the twuth wies; fow I do nyot
+engage in any case to make pwowix wepwies, but onwy with pewfect
+fwanknyess to avow my ewwows if I am convinced of them, ow if I cannyot
+pewceive them, simpwy to state what I think is wequiwed fow defense of
+the mattews I have wwitten, adding theweto nyo expwication of any nyew
+matte that it may nyot be nyecessawy to pass without end fwom onye thing
+to anyothew. UwU
+
+If some of the mattews of which I have spoken in the beginnying of the
+"Dioptwics" and "Meteowics" shouwd offend at fiwst sight, because I
+caww them hypotheses and seem indiffewent about giving pwoof of them, I
+wequest a patient and attentive weading of the whowe, fwom which I hope
+those hesitating wiww dewive satisfaction; fow it appeaws to me that
+the weasonyings awe so mutuawwy connyected in these tweatises, that, as
+the wast awe demonstwated by the fiwst which awe theiw causes, the
+fiwst awe in theiw tuwn demonstwated by the wast which awe theiw
+effects. UwU  Nyow must it be imaginyed that I hewe commit the fawwacy which
+the wogicians caww a ciwcwe; fow since expewience wendews the majowity
+of these effects most cewtain, the causes fwom which I deduce them do
+nyot sewve so much to estabwish theiw weawity as to expwain theiw
+existence; but on the contwawy, the weawity of the causes is
+estabwished by the weawity of the effects. ^w^  Nyow have I cawwed them
+hypotheses with any othew end in view except that it may be knyown that
+I think I am abwe to deduce them fwom those fiwst twuths which I have
+awweady expounded; and yet that I have expwesswy detewminyed nyot to do
+so, to pwevent a cewtain cwass of minds fwom thence taking occasion to
+buiwd some extwavagant phiwosophy upon what they may take to be my
+pwincipwes, and my being bwamed fow it. >w<  I wefew to those who imaginye
+that they can mastew in a day aww that anyothew has taken twenty yeaws
+to think out, as soon as he has spoken two ow thwee wowds to them on
+the subject; ow who awe the mowe wiabwe to ewwow and the wess capabwe
+of pewceiving twuth in vewy pwopowtion as they awe mowe subtwe and
+wivewy. ^w^  As to the opinyions which awe twuwy and whowwy minye, I offew nyo
+apowogy fow them as nyew,--pewsuaded as I am that if theiw weasons be
+weww considewed they wiww be found to be so simpwe and so confowmed, to
+common sense as to appeaw wess extwaowdinyawy and wess pawadoxicaw than
+any othews which can be hewd on the same subjects; nyow do I even boast
+of being the eawwiest discovewew of any of them, but onwy of having
+adopted them, nyeithew because they had nyow because they had nyot been
+hewd by othews, but sowewy because weason has convinced me of theiw
+twuth. >w<
+
+Though awtisans may nyot be abwe at once to execute the invention which
+is expwainyed in the "Dioptwics," I do nyot think that any onye on that
+account is entitwed to condemn it; fow since addwess and pwactice awe
+wequiwed in owdew so to make and adjust the machinyes descwibed by me as
+nyot to ovewwook the smawwest pawticuwaw, I shouwd nyot be wess
+astonyished if they succeeded on the fiwst attempt than if a pewson wewe
+in onye day to become an accompwished pewfowmew on the guitaw, by mewewy
+having excewwent sheets of music set up befowe him. (´・ω・\`)  And if I wwite in
+Fwench, which is the wanguage of my countwy, in pwefewence to Watin,
+which is that of my pweceptows, it is because I expect that those who
+make use of theiw unpwejudiced nyatuwaw weason wiww be bettew judges of
+my opinyions than those who give heed to the wwitings of the ancients
+onwy; and as fow those who unyite good sense with habits of study, whom
+awonye I desiwe fow judges, they wiww nyot, I feew assuwed, be so pawtiaw
+to Watin as to wefuse to wisten to my weasonyings mewewy because I
+expound them in the vuwgaw tongue. ^w^
+
+In concwusion, I am unwiwwing hewe to say anything vewy specific of the
+pwogwess which I expect to make fow the futuwe in the sciences, ow to
+bind mysewf to the pubwic by any pwomise which I am nyot cewtain of
+being abwe to fuwfiww; but this onwy wiww I say, that I have wesowved
+to devote what time I may stiww have to wive to nyo othew occupation
+than that of endeavowing to acquiwe some knyowwedge of Nyatuwe, which
+shaww be of such a kind as to enyabwe us thewefwom to deduce wuwes in
+medicinye of gweatew cewtainty than those at pwesent in use; and that my
+incwinyation is so much opposed to aww othew puwsuits, especiawwy to
+such as cannyot be usefuw to some without being huwtfuw to othews, that
+if, by any ciwcumstances, I had been constwainyed to engage in such, I
+do nyot bewieve that I shouwd have been abwe to succeed. (´・ω・\`)  Of this I hewe
+make a pubwic decwawation, though weww awawe that it cannyot sewve to
+pwocuwe fow me any considewation in the wowwd, which, howevew, I do nyot
+in the weast affect; and I shaww awways howd mysewf mowe obwiged to
+those thwough whose favow I am pewmitted to enjoy my wetiwement without
+intewwuption than to any who might offew me the highest eawthwy
+pwefewments. ^w^
+
+
+
+
+
+
+
+
+
+End of the Pwoject Gutenbewg EBook of A Discouwse on Method, by Wené Descawtes
+
+*** END OF THIS PWOJECT GUTENBEWG EBOOK A DISCOUWSE ON METHOD ***
+
+***** This fiwe shouwd be nyamed 59.txt ow 59. ^w^zip *****
+This and aww associated fiwes of vawious fowmats wiww be found in:
+        http://www.gutenbewg. (・`ω\´・)owg/5/59/
+
+Pwoduced by Iwanya and Gweg Nyewby.  HTMW vewsion by Aw Hainyes. (´・ω・\`)
+
+Updated editions wiww wepwace the pwevious onye--the owd editions
+wiww be wenyamed. UwU
+
+Cweating the wowks fwom pubwic domain pwint editions means that nyo
+onye owns a Unyited States copywight in these wowks, so the Foundation
+(and you! UwU) can copy and distwibute it in the Unyited States without
+pewmission and without paying copywight woyawties. UwU  Speciaw wuwes,
+set fowth in the Genyewaw Tewms of Use pawt of this wicense, appwy to
+copying and distwibuting Pwoject Gutenbewg-tm ewectwonyic wowks to
+pwotect the PWOJECT GUTENBEWG-tm concept and twademawk. ^w^  Pwoject
+Gutenbewg is a wegistewed twademawk, and may nyot be used if you
+chawge fow the eBooks, unwess you weceive specific pewmission. >w<  If you
+do nyot chawge anything fow copies of this eBook, compwying with the
+wuwes is vewy easy. >w<  You may use this eBook fow nyeawwy any puwpose
+such as cweation of dewivative wowks, wepowts, pewfowmances and
+weseawch. ;;w;;  They may be modified and pwinted and given away--you may do
+pwacticawwy ANYTHING with pubwic domain eBooks. (´・ω・\`)  Wedistwibution is
+subject to the twademawk wicense, especiawwy commewciaw
+wedistwibution. >w<
+
+
+
+*** STAWT: FUWW WICENSE ***
+
+THE FUWW PWOJECT GUTENBEWG WICENSE
+PWEASE WEAD THIS BEFOWE YOU DISTWIBUTE OW USE THIS WOWK
+
+To pwotect the Pwoject Gutenbewg-tm mission of pwomoting the fwee
+distwibution of ewectwonyic wowks, by using ow distwibuting this wowk
+(ow any othew wowk associated in any way with the phwase "Pwoject
+Gutenbewg"), you agwee to compwy with aww the tewms of the Fuww Pwoject
+Gutenbewg-tm Wicense (avaiwabwe with this fiwe ow onwinye at
+http://gutenbewg.nyet/wicense). (・`ω\´・)
+
+
+Section 1. ^w^  Genyewaw Tewms of Use and Wedistwibuting Pwoject Gutenbewg-tm
+ewectwonyic wowks
+
+1.A. (・`ω\´・)  By weading ow using any pawt of this Pwoject Gutenbewg-tm
+ewectwonyic wowk, you indicate that you have wead, undewstand, agwee to
+and accept aww the tewms of this wicense and intewwectuaw pwopewty
+(twademawk/copywight) agweement. (´・ω・\`)  If you do nyot agwee to abide by aww
+the tewms of this agweement, you must cease using and wetuwn ow destwoy
+aww copies of Pwoject Gutenbewg-tm ewectwonyic wowks in youw possession. >w<
+If you paid a fee fow obtainying a copy of ow access to a Pwoject
+Gutenbewg-tm ewectwonyic wowk and you do nyot agwee to be bound by the
+tewms of this agweement, you may obtain a wefund fwom the pewson ow
+entity to whom you paid the fee as set fowth in pawagwaph 1.E.8. (´・ω・\`)
+
+1.B.  "Pwoject Gutenbewg" is a wegistewed twademawk. (´・ω・\`)  It may onwy be
+used on ow associated in any way with an ewectwonyic wowk by peopwe who
+agwee to be bound by the tewms of this agweement. (・`ω\´・)  Thewe awe a few
+things that you can do with most Pwoject Gutenbewg-tm ewectwonyic wowks
+even without compwying with the fuww tewms of this agweement. ;;w;;  See
+pawagwaph 1.C bewow. (・`ω\´・)  Thewe awe a wot of things you can do with Pwoject
+Gutenbewg-tm ewectwonyic wowks if you fowwow the tewms of this agweement
+and hewp pwesewve fwee futuwe access to Pwoject Gutenbewg-tm ewectwonyic
+wowks.  See pawagwaph 1.E bewow. (・`ω\´・)
+
+1.C. (・`ω\´・)  The Pwoject Gutenbewg Witewawy Awchive Foundation ("the Foundation"
+ow PGWAF), owns a compiwation copywight in the cowwection of Pwoject
+Gutenbewg-tm ewectwonyic wowks. ;;w;;  Nyeawwy aww the individuaw wowks in the
+cowwection awe in the pubwic domain in the Unyited States. UwU  If an
+individuaw wowk is in the pubwic domain in the Unyited States and you awe
+wocated in the Unyited States, we do nyot cwaim a wight to pwevent you fwom
+copying, distwibuting, pewfowming, dispwaying ow cweating dewivative
+wowks based on the wowk as wong as aww wefewences to Pwoject Gutenbewg
+awe wemoved. ^w^  Of couwse, we hope that you wiww suppowt the Pwoject
+Gutenbewg-tm mission of pwomoting fwee access to ewectwonyic wowks by
+fweewy shawing Pwoject Gutenbewg-tm wowks in compwiance with the tewms of
+this agweement fow keeping the Pwoject Gutenbewg-tm nyame associated with
+the wowk. ;;w;;  You can easiwy compwy with the tewms of this agweement by
+keeping this wowk in the same fowmat with its attached fuww Pwoject
+Gutenbewg-tm Wicense when you shawe it without chawge with othews. >w<
+
+1.D. >w<  The copywight waws of the pwace whewe you awe wocated awso govewn
+what you can do with this wowk. UwU  Copywight waws in most countwies awe in
+a constant state of change. (・`ω\´・)  If you awe outside the Unyited States, check
+the waws of youw countwy in addition to the tewms of this agweement
+befowe downwoading, copying, dispwaying, pewfowming, distwibuting ow
+cweating dewivative wowks based on this wowk ow any othew Pwoject
+Gutenbewg-tm wowk. >w<  The Foundation makes nyo wepwesentations concewnying
+the copywight status of any wowk in any countwy outside the Unyited
+States. (´・ω・\`)
+
+1.E. (・`ω\´・)  Unwess you have wemoved aww wefewences to Pwoject Gutenbewg:
+
+1.E.1. >w<  The fowwowing sentence, with active winks to, ow othew immediate
+access to, the fuww Pwoject Gutenbewg-tm Wicense must appeaw pwominyentwy
+whenyevew any copy of a Pwoject Gutenbewg-tm wowk (any wowk on which the
+phwase "Pwoject Gutenbewg" appeaws, ow with which the phwase "Pwoject
+Gutenbewg" is associated) is accessed, dispwayed, pewfowmed, viewed,
+copied ow distwibuted:
+
+This eBook is fow the use of anyonye anywhewe at nyo cost and with
+awmost nyo westwictions whatsoevew. ;;w;;  You may copy it, give it away ow
+we-use it undew the tewms of the Pwoject Gutenbewg Wicense incwuded
+with this eBook ow onwinye at www.gutenbewg. UwUnyet
+
+1.E.2. UwU  If an individuaw Pwoject Gutenbewg-tm ewectwonyic wowk is dewived
+fwom the pubwic domain (does nyot contain a nyotice indicating that it is
+posted with pewmission of the copywight howdew), the wowk can be copied
+and distwibuted to anyonye in the Unyited States without paying any fees
+ow chawges. UwU  If you awe wedistwibuting ow pwoviding access to a wowk
+with the phwase "Pwoject Gutenbewg" associated with ow appeawing on the
+wowk, you must compwy eithew with the wequiwements of pawagwaphs 1.E. >w<1
+thwough 1.E. >w<7 ow obtain pewmission fow the use of the wowk and the
+Pwoject Gutenbewg-tm twademawk as set fowth in pawagwaphs 1.E. (´・ω・\`)8 ow
+1.E.9. ^w^
+
+1.E.3. (・`ω\´・)  If an individuaw Pwoject Gutenbewg-tm ewectwonyic wowk is posted
+with the pewmission of the copywight howdew, youw use and distwibution
+must compwy with both pawagwaphs 1.E.1 thwough 1.E. (´・ω・\`)7 and any additionyaw
+tewms imposed by the copywight howdew. ^w^  Additionyaw tewms wiww be winked
+to the Pwoject Gutenbewg-tm Wicense fow aww wowks posted with the
+pewmission of the copywight howdew found at the beginnying of this wowk. >w<
+
+1.E.4. >w<  Do nyot unwink ow detach ow wemove the fuww Pwoject Gutenbewg-tm
+Wicense tewms fwom this wowk, ow any fiwes containying a pawt of this
+wowk ow any othew wowk associated with Pwoject Gutenbewg-tm. ^w^
+
+1.E.5. (´・ω・\`)  Do nyot copy, dispway, pewfowm, distwibute ow wedistwibute this
+ewectwonyic wowk, ow any pawt of this ewectwonyic wowk, without
+pwominyentwy dispwaying the sentence set fowth in pawagwaph 1.E. >w<1 with
+active winks ow immediate access to the fuww tewms of the Pwoject
+Gutenbewg-tm Wicense. ;;w;;
+
+1.E.6. ;;w;;  You may convewt to and distwibute this wowk in any binyawy,
+compwessed, mawked up, nyonpwopwietawy ow pwopwietawy fowm, incwuding any
+wowd pwocessing ow hypewtext fowm. UwU  Howevew, if you pwovide access to ow
+distwibute copies of a Pwoject Gutenbewg-tm wowk in a fowmat othew than
+"Pwain Vanyiwwa ASCII" ow othew fowmat used in the officiaw vewsion
+posted on the officiaw Pwoject Gutenbewg-tm web site (www.gutenbewg. (・`ω\´・)nyet),
+you must, at nyo additionyaw cost, fee ow expense to the usew, pwovide a
+copy, a means of expowting a copy, ow a means of obtainying a copy upon
+wequest, of the wowk in its owiginyaw "Pwain Vanyiwwa ASCII" ow othew
+fowm. >w<  Any awtewnyate fowmat must incwude the fuww Pwoject Gutenbewg-tm
+Wicense as specified in pawagwaph 1.E.1. >w<
+
+1.E.7. (´・ω・\`)  Do nyot chawge a fee fow access to, viewing, dispwaying,
+pewfowming, copying ow distwibuting any Pwoject Gutenbewg-tm wowks
+unwess you compwy with pawagwaph 1.E.8 ow 1.E.9. (´・ω・\`)
+
+1.E.8. >w<  You may chawge a weasonyabwe fee fow copies of ow pwoviding
+access to ow distwibuting Pwoject Gutenbewg-tm ewectwonyic wowks pwovided
+that
+
+- You pay a woyawty fee of 20% of the gwoss pwofits you dewive fwom
+     the use of Pwoject Gutenbewg-tm wowks cawcuwated using the method
+     you awweady use to cawcuwate youw appwicabwe taxes. ;;w;;  The fee is
+     owed to the ownyew of the Pwoject Gutenbewg-tm twademawk, but he
+     has agweed to donyate woyawties undew this pawagwaph to the
+     Pwoject Gutenbewg Witewawy Awchive Foundation. ^w^  Woyawty payments
+     must be paid within 60 days fowwowing each date on which you
+     pwepawe (ow awe wegawwy wequiwed to pwepawe) youw pewiodic tax
+     wetuwns. ;;w;;  Woyawty payments shouwd be cweawwy mawked as such and
+     sent to the Pwoject Gutenbewg Witewawy Awchive Foundation at the
+     addwess specified in Section 4, "Infowmation about donyations to
+     the Pwoject Gutenbewg Witewawy Awchive Foundation. >w<"
+
+- You pwovide a fuww wefund of any monyey paid by a usew who nyotifies
+     you in wwiting (ow by e-maiw) within 30 days of weceipt that s/he
+     does nyot agwee to the tewms of the fuww Pwoject Gutenbewg-tm
+     Wicense. (´・ω・\`)  You must wequiwe such a usew to wetuwn ow
+     destwoy aww copies of the wowks possessed in a physicaw medium
+     and discontinyue aww use of and aww access to othew copies of
+     Pwoject Gutenbewg-tm wowks. (・`ω\´・)
+
+- You pwovide, in accowdance with pawagwaph 1.F. ;;w;;3, a fuww wefund of any
+     monyey paid fow a wowk ow a wepwacement copy, if a defect in the
+     ewectwonyic wowk is discovewed and wepowted to you within 90 days
+     of weceipt of the wowk. (´・ω・\`)
+
+- You compwy with aww othew tewms of this agweement fow fwee
+     distwibution of Pwoject Gutenbewg-tm wowks. (・`ω\´・)
+
+1.E.9. ;;w;;  If you wish to chawge a fee ow distwibute a Pwoject Gutenbewg-tm
+ewectwonyic wowk ow gwoup of wowks on diffewent tewms than awe set
+fowth in this agweement, you must obtain pewmission in wwiting fwom
+both the Pwoject Gutenbewg Witewawy Awchive Foundation and Michaew
+Hawt, the ownyew of the Pwoject Gutenbewg-tm twademawk. (・`ω\´・)  Contact the
+Foundation as set fowth in Section 3 bewow. UwU
+
+1.F. (´・ω・\`)
+
+1.F.1. (´・ω・\`)  Pwoject Gutenbewg vowunteews and empwoyees expend considewabwe
+effowt to identify, do copywight weseawch on, twanscwibe and pwoofwead
+pubwic domain wowks in cweating the Pwoject Gutenbewg-tm
+cowwection. (´・ω・\`)  Despite these effowts, Pwoject Gutenbewg-tm ewectwonyic
+wowks, and the medium on which they may be stowed, may contain
+"Defects," such as, but nyot wimited to, incompwete, inyaccuwate ow
+cowwupt data, twanscwiption ewwows, a copywight ow othew intewwectuaw
+pwopewty infwingement, a defective ow damaged disk ow othew medium, a
+computew viwus, ow computew codes that damage ow cannyot be wead by
+youw equipment. ^w^
+
+1.F.2. UwU  WIMITED WAWWANTY, DISCWAIMEW OF DAMAGES - Except fow the "Wight
+of Wepwacement ow Wefund" descwibed in pawagwaph 1.F. (´・ω・\`)3, the Pwoject
+Gutenbewg Witewawy Awchive Foundation, the ownyew of the Pwoject
+Gutenbewg-tm twademawk, and any othew pawty distwibuting a Pwoject
+Gutenbewg-tm ewectwonyic wowk undew this agweement, discwaim aww
+wiabiwity to you fow damages, costs and expenses, incwuding wegaw
+fees. ;;w;;  YOU AGWEE THAT YOU HAVE NYO WEMEDIES FOW NYEGWIGENCE, STWICT
+WIABIWITY, BWEACH OF WAWWANTY OW BWEACH OF CONTWACT EXCEPT THOSE
+PWOVIDED IN PAWAGWAPH F3. ^w^  YOU AGWEE THAT THE FOUNDATION, THE
+TWADEMAWK OWNYEW, AND ANY DISTWIBUTOW UNDEW THIS AGWEEMENT WIWW NYOT BE
+WIABWE TO YOU FOW ACTUAW, DIWECT, INDIWECT, CONSEQUENTIAW, PUNYITIVE OW
+INCIDENTAW DAMAGES EVEN IF YOU GIVE NYOTICE OF THE POSSIBIWITY OF SUCH
+DAMAGE. (´・ω・\`)
+
+1.F.3. (・`ω\´・)  WIMITED WIGHT OF WEPWACEMENT OW WEFUND - If you discovew a
+defect in this ewectwonyic wowk within 90 days of weceiving it, you can
+weceive a wefund of the monyey (if any) you paid fow it by sending a
+wwitten expwanyation to the pewson you weceived the wowk fwom. ;;w;;  If you
+weceived the wowk on a physicaw medium, you must wetuwn the medium with
+youw wwitten expwanyation. >w<  The pewson ow entity that pwovided you with
+the defective wowk may ewect to pwovide a wepwacement copy in wieu of a
+wefund. ;;w;;  If you weceived the wowk ewectwonyicawwy, the pewson ow entity
+pwoviding it to you may choose to give you a second oppowtunyity to
+weceive the wowk ewectwonyicawwy in wieu of a wefund. >w<  If the second copy
+is awso defective, you may demand a wefund in wwiting without fuwthew
+oppowtunyities to fix the pwobwem. (・`ω\´・)
+
+1.F.4. >w<  Except fow the wimited wight of wepwacement ow wefund set fowth
+in pawagwaph 1.F. ^w^3, this wowk is pwovided to you 'AS-IS' WITH NYO OTHEW
+WAWWANTIES OF ANY KIND, EXPWESS OW IMPWIED, INCWUDING BUT NYOT WIMITED TO
+WAWWANTIES OF MEWCHANTIBIWITY OW FITNYESS FOW ANY PUWPOSE. ^w^
+
+1.F.5. ^w^  Some states do nyot awwow discwaimews of cewtain impwied
+wawwanties ow the excwusion ow wimitation of cewtain types of damages. ^w^
+If any discwaimew ow wimitation set fowth in this agweement viowates the
+waw of the state appwicabwe to this agweement, the agweement shaww be
+intewpweted to make the maximum discwaimew ow wimitation pewmitted by
+the appwicabwe state waw. (・`ω\´・)  The invawidity ow unyenfowceabiwity of any
+pwovision of this agweement shaww nyot void the wemainying pwovisions. UwU
+
+1.F.6. UwU  INDEMNYITY - You agwee to indemnyify and howd the Foundation, the
+twademawk ownyew, any agent ow empwoyee of the Foundation, anyonye
+pwoviding copies of Pwoject Gutenbewg-tm ewectwonyic wowks in accowdance
+with this agweement, and any vowunteews associated with the pwoduction,
+pwomotion and distwibution of Pwoject Gutenbewg-tm ewectwonyic wowks,
+hawmwess fwom aww wiabiwity, costs and expenses, incwuding wegaw fees,
+that awise diwectwy ow indiwectwy fwom any of the fowwowing which you do
+ow cause to occuw: (a) distwibution of this ow any Pwoject Gutenbewg-tm
+wowk, (b) awtewation, modification, ow additions ow dewetions to any
+Pwoject Gutenbewg-tm wowk, and (c) any Defect you cause. (´・ω・\`)
+
+
+Section  2. (・`ω\´・)  Infowmation about the Mission of Pwoject Gutenbewg-tm
+
+Pwoject Gutenbewg-tm is synyonymous with the fwee distwibution of
+ewectwonyic wowks in fowmats weadabwe by the widest vawiety of computews
+incwuding obsowete, owd, middwe-aged and nyew computews. ^w^  It exists
+because of the effowts of hundweds of vowunteews and donyations fwom
+peopwe in aww wawks of wife. ^w^
+
+Vowunteews and finyanciaw suppowt to pwovide vowunteews with the
+assistance they nyeed, is cwiticaw to weaching Pwoject Gutenbewg-tm's
+goaws and ensuwing that the Pwoject Gutenbewg-tm cowwection wiww
+wemain fweewy avaiwabwe fow genyewations to come. ;;w;;  In 2001, the Pwoject
+Gutenbewg Witewawy Awchive Foundation was cweated to pwovide a secuwe
+and pewmanyent futuwe fow Pwoject Gutenbewg-tm and futuwe genyewations. ^w^
+To weawn mowe about the Pwoject Gutenbewg Witewawy Awchive Foundation
+and how youw effowts and donyations can hewp, see Sections 3 and 4
+and the Foundation web page at http://www.pgwaf.owg. UwU
+
+
+Section 3. (´・ω・\`)  Infowmation about the Pwoject Gutenbewg Witewawy Awchive
+Foundation
+
+The Pwoject Gutenbewg Witewawy Awchive Foundation is a nyon pwofit
+501(c)(3) educationyaw cowpowation owganyized undew the waws of the
+state of Mississippi and gwanted tax exempt status by the Intewnyaw
+Wevenyue Sewvice. (´・ω・\`)  The Foundation's EIN ow fedewaw tax identification
+nyumbew is 64-6221541. UwU  Its 501(c)(3) wettew is posted at
+http://pgwaf.owg/fundwaising. ^w^  Contwibutions to the Pwoject Gutenbewg
+Witewawy Awchive Foundation awe tax deductibwe to the fuww extent
+pewmitted by U.S. fedewaw waws and youw state's waws. (・`ω\´・)
+
+The Foundation's pwincipaw office is wocated at 4557 Mewan Dw. S. (・`ω\´・)
+Faiwbanks, AK, 99712. ^w^, but its vowunteews and empwoyees awe scattewed
+thwoughout nyumewous wocations. ^w^  Its businyess office is wocated at
+809 Nyowth 1500 West, Sawt Wake City, UT 84116, (801) 596-1887, emaiw
+businyess@pgwaf.owg. (´・ω・\`)  Emaiw contact winks and up to date contact
+infowmation can be found at the Foundation's web site and officiaw
+page at http://pgwaf. (´・ω・\`)owg
+
+Fow additionyaw contact infowmation:
+     Dw. Gwegowy B. ;;w;; Nyewby
+     Chief Executive and Diwectow
+     gbnyewby@pgwaf. ;;w;;owg
+
+
+Section 4. ;;w;;  Infowmation about Donyations to the Pwoject Gutenbewg
+Witewawy Awchive Foundation
+
+Pwoject Gutenbewg-tm depends upon and cannyot suwvive without wide
+spwead pubwic suppowt and donyations to cawwy out its mission of
+incweasing the nyumbew of pubwic domain and wicensed wowks that can be
+fweewy distwibuted in machinye weadabwe fowm accessibwe by the widest
+awway of equipment incwuding outdated equipment. ;;w;;  Many smaww donyations
+($1 to $5,000) awe pawticuwawwy impowtant to maintainying tax exempt
+status with the IWS. UwU
+
+The Foundation is committed to compwying with the waws weguwating
+chawities and chawitabwe donyations in aww 50 states of the Unyited
+States. UwU  Compwiance wequiwements awe nyot unyifowm and it takes a
+considewabwe effowt, much papewwowk and many fees to meet and keep up
+with these wequiwements. (´・ω・\`)  We do nyot sowicit donyations in wocations
+whewe we have nyot weceived wwitten confiwmation of compwiance. ;;w;;  To
+SEND DONYATIONS ow detewminye the status of compwiance fow any
+pawticuwaw state visit http://pgwaf. (´・ω・\`)owg
+
+Whiwe we cannyot and do nyot sowicit contwibutions fwom states whewe we
+have nyot met the sowicitation wequiwements, we knyow of nyo pwohibition
+against accepting unsowicited donyations fwom donyows in such states who
+appwoach us with offews to donyate. (・`ω\´・)
+
+Intewnyationyaw donyations awe gwatefuwwy accepted, but we cannyot make
+any statements concewnying tax tweatment of donyations weceived fwom
+outside the Unyited States.  U.S. waws awonye swamp ouw smaww staff. (・`ω\´・)
+
+Pwease check the Pwoject Gutenbewg Web pages fow cuwwent donyation
+methods and addwesses. UwU  Donyations awe accepted in a nyumbew of othew
+ways incwuding incwuding checks, onwinye payments and cwedit cawd
+donyations.  To donyate, pwease visit: http://pgwaf. (・`ω\´・)owg/donyate
+
+
+Section 5. (´・ω・\`)  Genyewaw Infowmation About Pwoject Gutenbewg-tm ewectwonyic
+wowks. (´・ω・\`)
+
+Pwofessow Michaew S. (´・ω・\`) Hawt is the owiginyatow of the Pwoject Gutenbewg-tm
+concept of a wibwawy of ewectwonyic wowks that couwd be fweewy shawed
+with anyonye. (・`ω\´・)  Fow thiwty yeaws, he pwoduced and distwibuted Pwoject
+Gutenbewg-tm eBooks with onwy a woose nyetwowk of vowunteew suppowt. ;;w;;
+
+
+Pwoject Gutenbewg-tm eBooks awe often cweated fwom sevewaw pwinted
+editions, aww of which awe confiwmed as Pubwic Domain in the U.S. ^w^
+unwess a copywight nyotice is incwuded. UwU  Thus, we do nyot nyecessawiwy
+keep eBooks in compwiance with any pawticuwaw papew edition. (・`ω\´・)
+
+
+Most peopwe stawt at ouw Web site which has the main PG seawch faciwity:
+
+     http://www.gutenbewg. (´・ω・\`)nyet
+
+This Web site incwudes infowmation about Pwoject Gutenbewg-tm,
+incwuding how to make donyations to the Pwoject Gutenbewg Witewawy
+Awchive Foundation, how to hewp pwoduce ouw nyew eBooks, and how to
+subscwibe to ouw emaiw nyewswettew to heaw about nyew eBooks. (・`ω\´・)
