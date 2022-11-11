@@ -1,5 +1,11 @@
-import requests, bs4, os, errno, zipfile, glob
+import errno
+import glob
+import os
+import zipfile
 from urllib.request import urlretrieve
+
+import bs4
+import requests
 
 
 def main():
