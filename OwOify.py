@@ -13,8 +13,10 @@ if not os.path.exists('OwO-out/'):
                 raise
 
 def owoIfy(FileName, here):
+    OwOName = FileName.replace(".txt", "")
+    OwOName = owo(OwOName)
     filename = os.path.join(here, 'Files/' + FileName)
-    output = os.path.join(here, 'OwO-out/' + FileName)
+    output = os.path.join(here, 'OwO/' + OwOName + ".txt")
     print("OwOing " + FileName)
     #with open("Files/" + FileName + ".txt", "r", encoding='utf-8-sig') as f:
     with open(filename, "r", encoding='utf-8-sig') as f:
