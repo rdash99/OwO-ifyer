@@ -45,7 +45,7 @@ def download(url):
     url_num = 0
     log_num = 0
     try:
-        with open(multiprocessing.current_process().name + '.log', 'r') as log:
+        with open(multiprocessing.current_process().name + '.txt', 'r') as log:
             log_num = int(log.read())
         log.close()
         print('Log file found. Starting from book # ' + str(log_num))
@@ -71,6 +71,12 @@ def download(url):
                         print(str(url_num) + ' Cannot unzip file:', dst) """
 
                 #os.remove(dst + '.zip')
+            except KeyboardInterrupt():
+                print('Chunk ' + multiprocessing.current_process().name + ' failed at file #' + str(url_num) + ' ' + dst + '.zip')
+                with open ('logs/' + str(multiprocessing.current_process().name) + '.txt', 'w') as f:
+                    f.write(str(url_num))
+                f.close()
+                exit()
             except:
                 print('Chunk ' + multiprocessing.current_process().name + ' encountered an issue downloading file #' + str(url_num) + ' ' + dst + '.zip')
                 remaining_download_tries = remaining_download_tries - 1
