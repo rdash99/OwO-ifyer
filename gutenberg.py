@@ -11,6 +11,12 @@ import bs4
 import requests
 
 def downloadAll(urls_to_books):
+    if not os.path.exists('logs/'):
+        try:
+            os.makedirs('logs/')
+        except OSError as e:
+            if e.errno != errno.EEXIST:
+                raise
     #for url in urls_to_books[url_num:]:
     print('Downloading books...')
     print('Total number of books to download: ' + str(len(urls_to_books)))
@@ -37,6 +43,15 @@ def chunk(lst, amt):
 
 def download(url):
     url_num = 0
+    log_num = 0
+    try:
+        with open(multiprocessing.current_process().name + '.log', 'r') as log:
+            log_num = int(log.read())
+        log.close()
+        print('Log file found. Starting from book # ' + str(log_num))
+        url = url[log_num:]
+    except:
+        pass
     for item in url:
         dst = 'books/' + item.split('/')[-1].split('.')[0].split('-')[0]
 
@@ -45,23 +60,29 @@ def download(url):
         remaining_download_tries = 15
 
         while remaining_download_tries > 0 :
-            if len(glob.glob(dst + '*')) == 0:
-                try:
-                    urlretrieve(item, dst + '.zip')
+            try:
+                urlretrieve(item, dst + '.zip')
 
-                    """ with zipfile.ZipFile(dst + '.zip', "r") as zip_ref:
-                        try:
-                            zip_ref.extractall("books/")
-                            #print(str(url_num) + ' ' + dst + '.zip ' + 'unzipped successfully!')
-                         except NotImplementedError:
-                            print(str(url_num) + ' Cannot unzip file:', dst) """
+                """ with zipfile.ZipFile(dst + '.zip', "r") as zip_ref:
+                    try:
+                        zip_ref.extractall("books/")
+                        #print(str(url_num) + ' ' + dst + '.zip ' + 'unzipped successfully!')
+                        except NotImplementedError:
+                        print(str(url_num) + ' Cannot unzip file:', dst) """
 
-                    #os.remove(dst + '.zip')
-                except:
-                    remaining_download_tries = remaining_download_tries - 1
+                #os.remove(dst + '.zip')
+            except:
+                print('Chunk ' + multiprocessing.current_process().name + ' encountered an issue downloading file #' + str(url_num) + ' ' + dst + '.zip')
+                remaining_download_tries = remaining_download_tries - 1
+                if remaining_download_tries == 0:
+                    print('Chunk ' + multiprocessing.current_process().name + ' failed at file #' + str(url_num) + ' ' + dst + '.zip')
+                    with open ('logs/' + str(multiprocessing.current_process().name) + '.txt', 'w') as f:
+                        f.write(str(url_num))
+                    f.close()
+                    exit()
+                else:
                     continue
-            else:
-                break
+                
         url_num += 1
     print('Chunk ' + multiprocessing.current_process().name + ' finished!')
 
