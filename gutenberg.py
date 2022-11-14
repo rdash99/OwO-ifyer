@@ -3,10 +3,38 @@ import glob
 import os
 import zipfile
 from urllib.request import urlretrieve
+import multiprocessing
 
 import bs4
 import requests
 
+def chunk(lst, amt):
+    lstChunk = []
+    for i in range(0, len(lst), amt):
+        lstChunk.append(lst[i: i + amt])
+    return lstChunk
+
+def download(url):
+    url_num = 0
+    for item in url:
+        dst = 'books/' + item.split('/')[-1].split('.')[0].split('-')[0]
+
+        with open('logfile.log', 'w') as f:
+            f.write('Unzipping file #' + str(url_num) + ' ' + dst + '.zip' + '\n')
+
+        if len(glob.glob(dst + '*')) == 0:
+            urlretrieve(item, dst + '.zip')
+
+            with zipfile.ZipFile(dst + '.zip', "r") as zip_ref:
+                try:
+                    zip_ref.extractall("books/")
+                    print(str(url_num) + ' ' + dst + '.zip ' + 'unzipped successfully!')
+                except NotImplementedError:
+                    print(str(url_num) + ' Cannot unzip file:', dst)
+
+            os.remove(dst + '.zip')
+        url_num += 1
+    print('Chunk ' + multiprocessing.current_process().name + ' finished!')
 
 def main():
 
@@ -70,26 +98,24 @@ def main():
         with open('urls_to_books.txt', 'r') as f:
             urls_to_books = f.read().splitlines()
 
-    for url in urls_to_books[url_num:]:
+    #for url in urls_to_books[url_num:]:
+    print('Downloading books...')
+    print('Total number of books to download: ' + str(len(urls_to_books)))
+    
+    chunks = chunk(urls_to_books, 500)
+        
+    processes = []
 
-        dst = 'books/' + url.split('/')[-1].split('.')[0].split('-')[0]
+    chunkLength = len(chunks)
+    i = 0
+    for item in chunks:
+        p = multiprocessing.Process(target=download, args=(item,))
+        p.name = str(i)
+        p.start()
+        processes.append(p)
+        i += 1
 
-        with open('logfile.log', 'w') as f:
-            f.write('Unzipping file #' + str(url_num) + ' ' + dst + '.zip' + '\n')
-
-        if len(glob.glob(dst + '*')) == 0:
-            urlretrieve(url, dst + '.zip')
-
-            with zipfile.ZipFile(dst + '.zip', "r") as zip_ref:
-                try:
-                    zip_ref.extractall("books/")
-                    print(str(url_num) + ' ' + dst + '.zip ' + 'unzipped successfully!')
-                except NotImplementedError:
-                    print(str(url_num) + ' Cannot unzip file:', dst)
-
-            os.remove(dst + '.zip')
-
-        url_num += 1
+     
 
 
 if __name__ == '__main__':
@@ -98,3 +124,4 @@ if __name__ == '__main__':
     """
 
     main()
+    
