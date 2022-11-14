@@ -4,9 +4,30 @@ import os
 import zipfile
 from urllib.request import urlretrieve
 import multiprocessing
+from os import listdir
+from os.path import isfile, join
 
 import bs4
 import requests
+
+def downloadAll(urls_to_books):
+    #for url in urls_to_books[url_num:]:
+    print('Downloading books...')
+    print('Total number of books to download: ' + str(len(urls_to_books)))
+    
+    chunks = chunk(urls_to_books, 250)
+        
+    processes = []
+
+    chunkLength = len(chunks)
+    i = 0
+    for item in chunks:
+        p = multiprocessing.Process(target=download, args=(item,))
+        p.name = str(i)
+        p.start()
+        processes.append(p)
+        i += 1
+    print('Processes started: ' + str(len(processes)))
 
 def chunk(lst, amt):
     lstChunk = []
@@ -19,21 +40,60 @@ def download(url):
     for item in url:
         dst = 'books/' + item.split('/')[-1].split('.')[0].split('-')[0]
 
-        with open('logfile.log', 'w') as f:
-            f.write('Unzipping file #' + str(url_num) + ' ' + dst + '.zip' + '\n')
+        """ with open('logfile.log', 'w') as f:
+            f.write('Unzipping file #' + str(url_num) + ' ' + dst + '.zip' + '\n') """
+        remaining_download_tries = 15
 
-        if len(glob.glob(dst + '*')) == 0:
-            urlretrieve(item, dst + '.zip')
-
-            with zipfile.ZipFile(dst + '.zip', "r") as zip_ref:
+        while remaining_download_tries > 0 :
+            if len(glob.glob(dst + '*')) == 0:
                 try:
-                    zip_ref.extractall("books/")
-                    print(str(url_num) + ' ' + dst + '.zip ' + 'unzipped successfully!')
-                except NotImplementedError:
-                    print(str(url_num) + ' Cannot unzip file:', dst)
+                    urlretrieve(item, dst + '.zip')
 
-            os.remove(dst + '.zip')
+                    """ with zipfile.ZipFile(dst + '.zip', "r") as zip_ref:
+                        try:
+                            zip_ref.extractall("books/")
+                            #print(str(url_num) + ' ' + dst + '.zip ' + 'unzipped successfully!')
+                         except NotImplementedError:
+                            print(str(url_num) + ' Cannot unzip file:', dst) """
+
+                    #os.remove(dst + '.zip')
+                except:
+                    remaining_download_tries = remaining_download_tries - 1
+                    continue
+            else:
+                break
         url_num += 1
+    print('Chunk ' + multiprocessing.current_process().name + ' finished!')
+
+def decompressAll():
+    onlyfiles = [f for f in listdir("./books") if isfile(join("./books", f))]
+    here = os.path.dirname(os.path.abspath(__file__))
+    print('Unzipping books...')
+    print('Total number of files to decompress: ' + str(len(onlyfiles)))
+    
+    chunks = chunk(onlyfiles, 250)
+        
+    processes = []
+
+    chunkLength = len(chunks)
+    i = 0
+    for item in chunks:
+        p = multiprocessing.Process(target=decompress, args=(item,))
+        p.name = str(i)
+        p.start()
+        processes.append(p)
+        i += 1
+    print('Processes started: ' + str(len(processes)))
+
+def decompress(files):
+    for file in files:
+        with zipfile.ZipFile(file, "r") as zip_ref:
+            try:
+                zip_ref.extractall("books/")
+                print(file + ' unzipped successfully!')
+                os.remove(file)
+            except NotImplementedError:
+                print('Cannot unzip file:', file)
     print('Chunk ' + multiprocessing.current_process().name + ' finished!')
 
 def main():
@@ -92,28 +152,12 @@ def main():
     # Example
     #       logfile.log : Unzipping file #99 books/10020.zip
     #       the number  : 99
-    url_num = 0
 
     if os.path.exists('urls_to_books.txt') and len(urls_to_books) == 0:
         with open('urls_to_books.txt', 'r') as f:
             urls_to_books = f.read().splitlines()
-
-    #for url in urls_to_books[url_num:]:
-    print('Downloading books...')
-    print('Total number of books to download: ' + str(len(urls_to_books)))
-    
-    chunks = chunk(urls_to_books, 500)
-        
-    processes = []
-
-    chunkLength = len(chunks)
-    i = 0
-    for item in chunks:
-        p = multiprocessing.Process(target=download, args=(item,))
-        p.name = str(i)
-        p.start()
-        processes.append(p)
-        i += 1
+    downloadAll(urls_to_books)
+    #decompressAll()
 
      
 
