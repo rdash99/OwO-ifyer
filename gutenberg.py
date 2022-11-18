@@ -42,6 +42,7 @@ def chunk(lst, amt):
     return lstChunk
 
 def download(url):
+    file_num = 0
     url_num = 0
     log_num = 0
     try:
@@ -62,6 +63,9 @@ def download(url):
         while remaining_download_tries > 0 :
             try:
                 urlretrieve(item, dst + '.zip')
+                file_num += 1
+                url_num += 1
+                print(url_num)
 
                 """ with zipfile.ZipFile(dst + '.zip', "r") as zip_ref:
                     try:
@@ -71,25 +75,17 @@ def download(url):
                         print(str(url_num) + ' Cannot unzip file:', dst) """
 
                 #os.remove(dst + '.zip')
-            except KeyboardInterrupt():
-                print('Chunk ' + multiprocessing.current_process().name + ' failed at file #' + str(url_num) + ' ' + dst + '.zip')
-                with open ('logs/' + str(multiprocessing.current_process().name) + '.txt', 'w') as f:
-                    f.write(str(url_num))
-                f.close()
-                exit()
             except:
                 print('Chunk ' + multiprocessing.current_process().name + ' encountered an issue downloading file #' + str(url_num) + ' ' + dst + '.zip')
                 remaining_download_tries = remaining_download_tries - 1
+                with open ('logs/' + str(multiprocessing.current_process().name) + '.txt', 'w') as f:
+                    f.write(str(file_num))
+                f.close()
                 if remaining_download_tries == 0:
                     print('Chunk ' + multiprocessing.current_process().name + ' failed at file #' + str(url_num) + ' ' + dst + '.zip')
-                    with open ('logs/' + str(multiprocessing.current_process().name) + '.txt', 'w') as f:
-                        f.write(str(url_num))
-                    f.close()
                     exit()
                 else:
                     continue
-                
-        url_num += 1
     print('Chunk ' + multiprocessing.current_process().name + ' finished!')
 
 def decompressAll():
